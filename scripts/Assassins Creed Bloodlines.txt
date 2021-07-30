@@ -1,0 +1,371 @@
+UNKNOWN: “Acre, Fall 1191. It's been one month since the assassin Altair struck down the Templar leaders in the Holy Land. Under the leadership of Armand Bouchart, the Templar scramble to recover the mysterious Apple of Eden. Not content to wait for his enemies to strike, Altair decides to take the fight to them…”
+Maria: Where are my ships, soldier? I was told there would be another fleet of eight.
+Soldier: I'm sorry, Maria, but this is the best we could do.
+Maria: It's barely big enough to hold our cargo! How do you propose to get the rest of us to Cyprus?
+Soldier: Begging your pardon, but it might be better if you stayed in Acre.
+Maria: What is that… a threat?
+Soldier: It's fair warning. Armand Bouchart is Grand Master now, and he doesn't hold you in high regard.
+Maria: Why you insolent… Very well, this ship is yours. I'll find my own way to Limassol.
+Soldier: Yes, M’Lady.
+Maria: Damn. I was a single heartbeat from knighthood. Now I'm little more than a mercenary.
+Maria: Returned to finish me off?
+Altair: Not just yet. I want information. Why are the Templars sailing for Cyprus?
+Maria: It's been a long, dirty war, Assassin. Everyone deserves a holiday.
+Altair: The more you tell me, the longer you live. So I'll ask again, why the retreat to Cyprus?
+Maria: What retreat? King Richard has brokered a truce with Saladin, and your order is leaderless, is it not? Once we recover the Apple of Eden, you'll be the one running.
+Altair: I'll save my breath. The Apple of Eden is well hidden.
+Maria: Altair, consider your options carefully. The Templars would pay you a great price for that relic.
+Altair: They already have, haven't they?
+Altair: What's happening on Cyprus that would concern the Templars?
+Assassin: Civil strife perhaps. Their Emperor, Isaac Comnenus, picked a fight with King Richard many months ago… and now he rots in a Templar dungeon.
+Altair: A pity. Isaac was so easily bent, so willing to take a bribe.
+Assassin: Ah, those days are past. Now the Templars own the island, purchased from the King for a paltry sum.
+Altair: Ah! Well, that's not the kind of governance we want to encourage. Do we have any contacts there?
+Assassin: I know of one in Limassol. A man named Alexander.
+Altair: Send him a message. Tell him to expect me within the week.
+Assassin: Yes, Altair.
+Old Altair: If there is good to be found in this artifact, I will discover it. But, if it is only capable of inspiring evil and despair, I hope I possess the strength to destroy it.
+Maria: What if I just started screaming?
+Altair: People would cover their ears and carry on. They've seen an unhappy slave before.
+Man: This port is off limits. Show your face!
+Altair: Nothing under this hood but an ugly, old Assassin.
+Man: Altair.
+Altair: Alexander… you got my message.
+Alexander: I assumed it was a Templar trap. Who is the woman?
+Altair: Templar bait. She was Robert De Sable's girl.
+Maria: Don't belittle me, murderer. I'm a Templar too.
+Altair: Unfortunately, she's a bit of a burden.
+Alexander: We can hold her for you, Altair. We have a secure safehouse.
+Altair: Good. I'm going to have a look around. I'll meet you there.
+Alexander: Quite a ghost town, hm? People are afraid to leave their homes for fear of breaking some obscure new law. The Templars have never been interested in governing before. I wonder why now? I won't assume you're here out of charity. Can I ask your purpose?
+Altair: It's a complicated story, but can be summed up easily: the Templars have access to knowledge and weapons far more deadly than anyone could have imagined. I plan to change this. One such weapon is in OUR hands; a device with the ability to warp men's minds. If the Templars possess mare like it, I want to know.
+Maria: And we can certainly trust the Assassins to put the Apple of Eden to better use…
+Altair: Where are the Templars holed up now?
+Alexander: In Limassol Castle. But they're expanding their reach.
+Altair: And how do I get inside?
+Alexander: Kill the captain of the castle guard. With him dead, it's likely one of our spies would be promoted to the post. And if that happens, well, you can walk right in. It's a start.
+Altair: It is done.
+Alexander: Good. Now find the Templar named Osman and tell him Alexander wishes his grandmother a joyous birthday. He will trust you then…
+Altair: Where do I find him?
+Alexander: The Cathedral square. He will be there soon. Osman thinks I'm coming to meet him, but you're the better man for this job.
+Altair: Greetings Osman. Alexander sends his regards, and wishes your grandmother a joyous birthday.
+Osman: Ah, the dear lady. May she rest in peace. Now, how may I help you friend?
+Altair: Can you tell me why the Templars purchased Cyprus? Was it to set up another exchequer?
+Osman: I don't rank high enough to know for certain, but I have heard talk, of an Archive of some kind.
+Altair: An archive? Interesting. And who is the ranking Templar in Limassol?
+Osman: A knight named Fredrick the Red. He trains soldiers in Limassol castle. A real brute.
+Altair: With the castle guard dead, what would it take to get me inside?
+Osman: Assuming lam appointed to his position, I could find an excuse to reduce the castle watch for a short time. Will that work?
+Altair: I'll make it work.
+Altair: Osman is making arrangements as we speak.
+Alexander: Excellent. Now what?
+Altair: We give him some time. He also told me about the Templar Archive. Have you heard of such a thing?
+Maria: Of course. That's where we keep our undergarments.
+Altair: Cyprus would be a good location to safeguard both knowledge and weapons. With the right strategy, it's an easy island to defend.
+Alexander: Ah, if only our foolish Emperor had possessed such foresight. King Richard made short work of him…
+Altair: I'll be back soon.
+Fredrick the Red: No mercy, men! This is an island of superstitious heathens. Remember, they do not want you here, they do not like you, they do not understand the true wisdom of your cause! And they are scheming at every turn to cast you out! So stay on your guard, and trust no one!
+Altair: Maria isn't among the dead. So was she captured… or set free?
+Soldier: He's fleeing! Don't let him escape!
+Armand Bouchart: A foul murder has shaken my order! Dear Fredrick the Red… slain! He, who served God and the people of Cyprus with honor, is paid tribute by a murderer's blade? Who among you will deliver those responsible to me?
+Armand Bouchart: Cowards! You leave me no choice but to flush out this killer myself. I hereby grant my men immunity until this investigation is concluded.
+Soldier: Bouchart… The citizens are already restless. Perhaps this is not the best idea.
+Armand Bouchart: If anyone else has objections. I invite you to step forward.
+Maria: Armand Bouchart!
+Armand Bouchart: Who's that? Ah… An old colleague.
+Maria: Bouchart! An Assassin has come to Cyprus! I managed to escape, but he cannot be far behind.
+Armand Bouchart: Why Maria, that would make this your second miraculous escape from the Assassins, no? Once when De Sable was the target, and now here on my island…
+Maria: I am not in league with the Assassins, Bouchart! Please listen!
+Armand Bouchart: De Sable was a weak-willed wretch. Verse 70 of the founding Templar Rule expressly forbids consorting with women…. for it is through women that the devil weaves his strongest web. De Sable ignored this tenant and paid with his life.
+Maria: How dare you!
+Armand Bouchart: Touched a nerve, did I? Lock her up.
+Maria: Get your hands off me! They consider me a traitor thanks to you.
+Altair: I am only a convenient excuse for your wrath, Maria. The Templars are your real enemy.
+Maria: I will kill you when I get the chance.
+Altair: IF you get the chance… but then you'll never find the Apple of Eden. And what would curry more favor with the Templars right now? My head or that artifact?
+Altair: I thought so…
+Alexander: Despite his bravado, Bouchart obviously took Maria's warning seriously. My sources tell me that after destroying our safehouse he immediately sailed for Kyrenia.
+Altair: That's a shame. I was hoping to meet him. What's the fastest route there?
+Alexander: By boat, definitely. But those pirates won't let you hop aboard one of their ships without good reason. Find a man named Pasha in the Ports. Tell him to honor the favor he owes me, and he might be able to get you on the next ship heading north. 
+Altair: You're a well connected man, Alexander.
+Altair: Alexander is calling in his favor, Pasha. He needs you to find me safe passage to Kyrenia.
+Pasha: Ah, haha… you must be the resistance cutthroat I've heard stories about. Chasing down Armand Bouchart, are you? Armand and his precious cargo?
+Altair: Cargo. Tell me more….
+Pasha: Oh, I've just heard rumors. Holy artifacts of all kinds on these ships. For all I know he's got the Ark of the Covenant hidden somewhere nearby.
+Altair: En route to the Templar archive, no doubt.
+Pasha: Your guess is as good as mine. As for your transport… meet me on the docks later this afternoon and I'll see that you get safely aboard.
+Altair: There will be two of us. We won't be late.
+Altair: I'm curious about this Templar Cargo. The ship's manifest might contain clues about what the Templars are bringing to their archive. I should have a look now before we set sail… before the ship is crawling with pirates.
+Altair: This manifest is a mess… a shoddy job done by lazy men… unless this is a deliberate attempt to hide something.
+Captain: Where is that damned fool? Where is my First Mate?
+Sailor: He's gone ashore, Captain.
+Captain: In search of wine and women, eh? Listen: we sail for Kyrenia in two hours. If he's not back in one, he's off this ship. The Templars aren't paying me to play servant to a bunch of drunks.
+Altair: I found a ship headed for Kyrenia. We're leaving now.
+Maria: If you expect me to behave while you drag me onto a boat full of pirates, you're mistaken.
+Altair: If the pirates find you, they'll hand you over to the Templars for a handsome reward. Right back into Bouchart's hands.
+Alexander: I wish you luck, Altair. Kyrenia is a rough place these days, but we have many friends in the city watch. Look for a man named Barnabas in the Commons district. I have not heard from him for some weeks, however, so you may be on your own.
+Altair: Thank you Alexander. If I return to Limassol, I will report all that I have learned.
+Alexander: By then we will have established ourselves in a new safehouse. Find us there.
+Old Altair: I struggle to make sense of the Apple of Eden… its function and purpose, but I CAN say with certainty that its origins are not divine. No… it is a tool… a machine of exquisite precision. What sort of men were they who brought this marvel into the world?
+Altair: That's a lovely ring….
+Maria: It was a gift from Robert De Sable, when he took me under his wing. This is about all I have left of my ties to the Templars now….
+Altair: Did you study philosophy, Maria?
+Maria: I've read scraps… nothing more.
+Altair: The philosopher Empedocles preached that all life on earth began simply, in rudimentary forms: hands without arms, heads without bodies, eyes without faces. He believed that all these early forms combined, very gradually over time, creating all the variety of life we see before us. Interesting, hm?
+Maria: I don't see the point of your ramblings.
+Altair: Only a mind free of impediments is capable of grasping the chaotic beauty of the world. This is our greatest asset.
+Maria: But is chaos something to be celebrated? Is disorder a virtue?
+Altair: It presents us with challenges, yes, but freedom yields greater rewards than the alternative. The order and peace the Templars seek requires servility and imprisonment.
+Maria: Mmm. I know the feeling…
+Pirate: I knew it was him. I told you!
+Pirate 2: I'll bet the Templars would pays a pretty handsome reward for those two…
+Man: W-who's this? Stay where you are!
+Altair: Thought I'd seen the last of you.
+Maria: If only I were so lucky…
+Altair: What is your business with this woman? Are you a Templar lackey?
+Man: No sir. The pirates attacked her, and I had to help. But I'm no lackey. I can't stand these Templars.
+Altair: I understand. You're not alone.
+Man: My name is Markos, sir. I'll help in any way I can, if it means ridding my country of these crusaders.
+Altair: Then I need you to keep this woman safe until I return. I have to find someone before the Templars do.
+Marcos: We'll be patrolling the harbor all day. She'll be safe here with us.
+Altair: Barnabas?
+Barnabas: Eh? Yes… Who sent you?
+Altair: Alexander of Limassol said I might find you here. I've been following Armand Bouchart.
+Barnabas: Ah… Bouchart is in Kyrenia? He's probably visiting his prisoners in Buffavento.
+Altair: Buffavento… is that a keep nearby?
+Barnabas: A castle, yes. It was once the residence of a wealthy Cypriot noblewoman, until the Templars seized her property.
+Altair: Can you take me there?
+Barnabas: Well… I can do more than that, actually. I can get you inside, without the guards batting an eye. But you must do something for me first. For the resistance.
+Altair: A familiar request. What is it?
+Barnabas: We have a traitor in our midst. A respected merchant by the name of Jonas. Eliminate him and I'll fulfill my end of the bargain.
+Altair: It will be done.
+Jonas: What's this, an Assassin? Does Saladin have his eyes on poor Cyprus too?
+Altair: The Assassins have no ties to the Saracen. Our business is our own.
+Jonas: Whatever the case, word of your presence is widespread and the Bull has put a bounty on your head… and the head of your female consort.
+Altair: I'm worth more and more every day.
+Altair: Curious last words, Jonas. Still, you were helpful… if mercenaries are combing the streets searching for me and Maria, she won't be safe for much longer.
+Marcos: The pirates, they jumped us! It was all so sudden.
+Altair: Well, Maria. It seems there's a hefty price on both our heads.
+Maria: A price? Goddamn Bouchart. He probably thinks I'm your bloody apprentice.
+Altair: Someone called The Bull has dispatched his men to search for us.
+Maria: The Bull? So they gave that Zealot his own parish?
+Altair: Is he a friend of yours?
+Maria: Hardly. His name is Moloch. He's a pious blowhard with arms like tree trunks.
+Altair: Do you know the Resistance safehouse in the Commons?
+Marcos: I know where it is, but I've never been inside. I'm just a foot soldier for the resistance.
+Altair: I can't be seen with Maria, so you'll have to take her. Keep her out of sight, and meet me there when you're safe.
+Marcos: I know some back alleys and tunnels. It may take longer, but we'll get her there in one piece.
+Barnabas: I just got word that someone found poor Jonas's body. What a waste, eh?
+Altair: You knew him better than me. I'm sure he understood the risk of playing both sides.
+Barnabas: Yes… unfortunately, this has complicated things. Jonas was a respected Cypriot and his death has sparked riots near the Old Church. The public is hungry for revenge, and to quell this, the Bull will call you out. You may lose the support of the resistance.
+Altair: One death is enough to spark a riot?
+Barnabas: The Bull has been a cruel master, and unlike the Templars he actually believes what he preaches. He loathes our local faith, and even went so far as to steal a set of historic scrolls from us, claiming they were symbols of pagan blasphemy.
+Altair: But Jonas was a traitor. Did the resistance not know?
+Barnabas: Not enough of them, I'm afraid. The resistance is quite scattered.
+Altair: Well, you'll have the chance to tell them yourself. Some men are on their way here now.
+Barnabas: You're bringing people here? People you can trust?
+Altair: I'm not sure who I can trust right now. But it's worth the risk. Right now I have to stop these riots from spreading.
+Barnabas: And per our bargain, I'll see what I can do about getting you close to Bouchart. A deal's a deal, eh?
+Altair: Agreeing to kill Jonas was rash, and until I find our more about Barnabas, I won't be running any more of his errands. Now, time to quell these riots before the Bull clamps down harder.
+Marcos: What's going on out there? The city is in turmoil. I've seen riots.
+Altair: The people are protesting the death of a citizen, a man named Jonas. Have you heard of him?
+Marcos: My father knew him well. He was a good man. How did he die?
+Altair: Bravely… Listen, Markos, things have gotten complicated. Before I find Bouchart, I need to eliminate The Bull and put an end to his violence.
+Maria: You have quite a taste for chaos, Altair.
+Altair: The Bull is one man responsible for the subjugation of thousands. Few will mourn his loss.
+Maria: And you propose to just fly into Kantara, sting him, and exit unnoticed? He surrounds himself with devoted worshippers.
+Altair: Kantara… that's to the East?
+Maria: Yes, it's the most well defended… Forget it. You'll see.
+Altair: Your tyranny ends here, Moloch!
+The Bull: Oh no! It will continue. Beyond me, and you, and Bouchart… It will outlast us all.
+Old Altair: Why do our instincts insist on violence? I have studied the interactions between different species. The innate desire to survive seems to demand the death of the other. Why can they not stand hand in hand? So many believe the world was created through the works of a divine power - but I see only the designs of a madman, bent on celebrating death, destruction, and desperation.
+Marcos: Altair, we were attacked! We tried to fight them off but, but… ah, it was no use.
+Altair: Did they take Maria?
+Marcos: I think so. They took everyone else… I wanted to stop them, but had to hide. There were too many.
+Altair: This was not your fault. The Templars are crafty.
+Marcos: I've heard they harness the powers of a Dark Oracle in Buffavento. That must be how they found us.
+Altair: That's a curious theory, but I suspect it was Barnabas who tipped them off.
+Marcos: Barnabas? How can that be? The resistance leader Barnabas was executed the day before you arrived!
+Altair: Before I arrived?
+Marcos: Altair, the Templars are preparing to execute our men. You must stop them!
+Captain: Assassin! There's an assassin here! Stop the Assassin!
+Altair: I wasn't able to locate all of your men, Markos.
+Marcos: They may still be imprisoned, either at the Harbor jail, or in Buffavento.
+Altair: It would help to narrow that down. We don't have much time.
+Marcos: Many of the jailers like to drown their sorrows in the harbor district after a day's work. You may be able to find information there.
+Altair: Still no sign of Maria?
+Marcos: None. You think maybe she misses your company?
+Altair: She might after she learns more about her old friends. Meet me later, outside the gates to Buffavento.
+Soldier: You're not allowed here!
+Tough Guy: Are you threatening me? 
+Soldier: What's gotten into you? Keep that up, and you'll pay dearly.
+Tough Guy: You don't even know how to use that thing.
+Tough Guy: Coward! You want a fight, then show your face!
+Altair: Forgive me Sergeant. It's the wine getting to me. You resemble the man who took my job.
+Tough Guy: Eh? Where were you posted?
+Altair: I worked in the chapel at Buffavento, until Bouchart caught me drunk on wine.
+Tough Guy: Oh! Ha ha ha! Rough work around that old Oracle, eh? I'm working the Harbor prison, myself, keeping watch over those resistance scumbags.
+Altair: Are they still there?
+Tough Guy: Sure, and they ain't getting out. Just one Templar holds the key; a fella up at the crusader outpost. If he loses that set, those bastards'll rot in their cells.
+Altair: We can't let that happen, can we?
+Rebel: Thank you, sir. May god bless you.
+Altair: Was there a woman with you when you were taken?
+Rebel: A woman? Yes sir, until the Bull's son Shalim took her away in chains. She didn't go quietly.
+Altair: Hurry now. Return to your families!
+Marcos: Altair, I just heard the news. More of our brothers are free?
+Altair: Yes. But Bouchart seems to have his eyes on every branch of the Resistance. Be wary.
+Marcos: It's that Oracle! She sees everything! She's a menace, and must be stopped!
+Altair: I don't know what this Oracle is telling the Templars, but if they were able to break the real Barnabas before he died, they may have broken her too.
+Marcos: Good god, do you suppose they tortured the poor man?
+Altair: I think I'd like to have a talk with this Oracle myself.
+Armand Bouchart: So the girl got away again, did she?
+Shalim: I'm sure she had help. One minute she was chained up, the next she was gone…
+Armand Bouchart: Don't insult me Shalim. Your weakness for women is well known. You let your guard down and she just walked away.
+Shalim: I WILL find her again, Grand Master. I swear it.
+Armand Bouchart: Do it quickly, before she leads the Assassin directly to the Archive. Oh and Shalim… see that this is delivered to Alexander in Limassol.
+Shalim: Yes, Grand Master.
+Altair: Alexander is working with the Templars too? My God, Bouchart has spies everywhere.
+Armand Bouchart: What's happening?
+Soldier: It's that madwoman, sir. She's on a rampage… two of the guards are dead!
+Armand Bouchart: Let her play. She has served her purpose.
+The Witch: Pagan blood… I know your name, sinner… I know why you're here… God guide my claws… God grant me strength to snap your bones…
+The Witch: Glory of God… I am his instrument… God's executioner… I fear no pain, nor death.
+Altair: You were a Cypriot once, a respected noblewoman. What secrets did you tell those devils?
+The Witch: Not without purpose do I deal in misery… by God's command, I am His instrument…
+Altair: Whatever the Templars have done to you my Lady, they have done you wrong. Forgive me for this…
+Old Altair: Who were The Ones That Came Before? What brought them here? What drove them out? What of these artifacts? Messages in a bottle? Tools left behind to aid and guide us? Or do we fight for control over their refuse, giving divine purpose and meaning to little more than discarded toys?
+Altair: The Oracle is dead. She won't be spilling any more secrets.
+Marcos: Ah, that is a great relief.
+Altair: Who is Shalim? I overheard him talking to Bouchart earlier, discussing Maria. It seems they lost her.
+Marcos: Shalim is the Bull's whelp. A vicious man, though not so devout as his father. He's been seen with Bouchart on more than one occasion.
+Altair: I think I'll tail him for a while, to see what I can learn.
+Marcos: Meet me in the Market district when you're through. I'd like to know what you've found.
+Shalim: My father's been murdered, Soldier, and I'm in no mood to spend my own money on women. Why don't we spend a little of his?
+Shalim’s Guard 1: Take a break. Shalim's orders.
+Shalim’s Guard 2: You ugly wretch. A face like yours ought to be taxed!
+Woman: Please, you've no right to do this!
+Shalim: What's the take today, hm?
+Shalim’s Guard: Not bad, Shalim. Enough to buy some wine and a bit of fun.
+Shalim: I like the way you think, soldier. Let's go.
+Drunk Guy: Raise a mug, Shalim!
+Guy’s Woman: Shalim, no! Please don't!
+Shalim: Have your fun, men. And round up some local talent for me when you're finished.
+Marcos: You're right. Shalim is no gentleman. I just watched him tear through a brothel like a feral dog. Eh, he does that every week. No respect for anyone.
+Altair: I need to get closer. If he's as stupid as he is brash, I may be able to get some secrets out of him.
+Marcos: Speak to one of the Monks near the Cathedral. Shalim's wayward lifestyle demands frequent confessions….
+Altair: It's worth a try. Any sign of Maria?
+Marcos: No, none at all. I do hope she's safe.
+Altair: If she's safe, then we aren't, so stay alert.
+Altair: Does it not trouble you, brother, to suffer the sins of such a vile man as Shalim?
+The Leader of the Scholars: It does, but to oppose him would mean death. The Templars have too much at stake here.
+Altair: You mean the Archive. Can you tell me where it is?
+The Leader of the Scholars: Hush. We can speak about this later.
+Shalim: Men and women of Cyprus! Armand Bouchart sends his blessing, but with a stern provision that all who foment disorder by their support of the Resistance will be caught and punished. But those who seek order and harmony, and pay obeisance to the Lord through good work, will enjoy Bouchart's charity! Now, let us work together as brothers to rebuild what hate and anger have torn down!
+Altair: Strange. He's quite charitable this morning. Paying penance for his guilty conscience?
+Marcos: Altair… back so soon?
+Altair: The Bull's son has a confused strategy for Cyprus… Abusing the population one day, and giving to charity the next.
+Marcos: That's how the Templars keep us docile…. Building churches and giving to charity.
+Altair: I need to catch Shalim when he's alone.
+Marcos: You might try the harbor. Shalim likes to idle there whenever a ship full of exotic consorts arrives.
+Altair: Ahhhh. There you are, Maria. Clever lady… or damned foolish. If any of those guards stop her palanquin, they may recognize her. I'd better clear the path ahead.
+Shalim: Ah, I didn't expect to see you again. How can I help you, little fox?
+Maria: I'm not here to be flattered. I want answers.
+Shalim: Oh?
+Maria: Is it true what I have heard, that the Templars wish to use the Apple of Eden for ill? Not to enlighten the people, but to subdue them?
+Shalim: People are confused, Maria. They're lambs begging to be led. And that's what we offer: simple lives, free of worry.
+Maria: But our order was created to protect the people, not rob them of their liberty.
+Shalim: The Templars put no stock in liberty, Maria. We seek order, nothing more.
+Maria: Order? Or enslavement?
+Shalim: You can call it whatever you like, my dear. Assassin!
+Altair: Apologies, Shalim. I let myself in.
+Shalim?: You're looking for Shalim, eh? I'm sure my brother would be happy to join us.
+Altair: Two of them… and two of us.
+Maria: 
+Marcos: It's happening. Altair. The ports are emptying of Templar ships. Kyrenia will be free. Maybe all of Cyprus!
+Altair: Stay cautious. They wouldn't leave their archive undefended, so it cannot be here…
+Marcos: Most of the ships that left here were headed back to Limassol. Could it be there?
+Altair: Thank you, Markos. You have served your country well.
+Marcos: God Speed, Altair.
+Old Altair: I remember my moment of weakness, my confidence shaken by Al Mualim's words. He, who had been like a father, was revealed to be my greatest enemy. Just the briefest flicker of doubt was all he needed to creep into my mind with this device. But I vanquished his phantoms, restored my self confidence, and sent him from this world.
+Alexander: Stay back, traitor! You have betrayed the resistance, and sold out our cause! Have you been working with Bouchart all this time?
+Altair: I was about to ask the same of you, Alexander. I overheard Bouchart mention your name. He delivered a package to you, did he not?
+Alexander: Yes. The head of poor Barnabas in a burlap sack!
+Altair: This was not the man who met me in Kyrenia.
+Alexander: What?
+Altair: The real Barnabas had been murdered before I arrived, replaced by a Templar agent who did a good deal of damage before vanishing.
+Alexander: God help us! The Templars have been equally brutal here, with Captains roaming the Market, the Ports, and the Cathedral square arresting anyone they see fit.
+Altair: Don't despair. Kyrenia has already shaken off the Templars. We will expel them from Limassol too.
+Alexander: You're right. But you must be careful. Templar propaganda has turned some of my men against you, and most others are wary.
+Altair: Thanks for the warning.
+Port Watchman: Yeah I just got in yesterday. I'd rather be at sea than idling away in this dump. You know where I can find some entertainment, eh?
+Man: Go away.
+Altair: I have a message for Armand Bouchart. Has he come through this port recently?
+Port Watchman: I couldn't say. But he'd do well to avoid this place. We had some awful murders here last night.
+Altair: Who was killed? Templars?
+Port Watchman: No, a couple of my men working the docks. Cut down where they stood. It was so dark, nobody saw a thing.
+Altair: Who was on duty that night?
+Port Watchman: A goddamned Templar Sergeant. But you won't find him here, if you're looking.
+Altair: I am.
+Port Watchman: He's over by the Cathedral today. Praying for his own soul, hope…
+Patrol Sergeant: Kill him! Kill the Assassin!
+Patrol Sergeant: Feeling brave, are we?
+Altair: You cower like a man wracked with a guilty conscience.
+Patrol Sergeant: You're getting desperate, Assassin. Attacking us blindly, grasping for answers.
+Altair: You let Bouchart slip through the ports last night, and murdered two good men in the process.
+Patrol Sergeant: That wasn't my work. I just patrol there. Go pester Demetris. He practically owns those ports.
+Altair: Demetris? A wealthy man, I suppose…..
+Patrol Sergeant: Oh quite! A debauched merchant and gluttonous worm. But he's been a useful ally in this operation.
+Altair: You can always judge a man by the company he keeps….
+Demetris: Ah girls! Oh my lovelies! Spare an old man from his paltry imagination and let me gaze upon the reality of your beauty.
+Demetris: Eh? This isn't a public house, for God's sake! Remove yourself, pauper, before I call the guards!
+Altair: I'm here on business, Demetris. I'm looking for one of your clients… a killer.
+Demetris: What makes you think I know where to find such a man? I deal in textiles, not cutthroats.
+Altair: Then what am I to make of the rumor that Bouchart hired you to sneak him through the ports this morning?
+Demetris: Y-you're crazy. I would never work with that… that vile man.
+Altair: Ladies…. Would you give us a moment?
+Demetris: Please stop! What is it you want? I'll tell you everything. That damned killer, a Templar cutthroat. It was he who paid me to - Ahhh!
+Altair: A note from Alexander… He's planning something in the castle courtyard. I'm not sure what this means, but it would be wise to be cautious.
+Altair: Alexander…
+Man: A friend of yours?
+Altair: You… I didn't catch your name.
+Man: What did I tell you in Kyrenia? Was it… Barnabas?
+Man: There's the traitor!
+Woman: String him up!
+Barnabas?: Ah… sounds like public opinion has turned against you, Assassin.
+Altair: Stop! I will not fight you. I am not your enemy!
+Altair: Armand Bouchart is the man responsible for your misery. He hired this man to poison the resistance against itself. Go from this place, and rally your men. Cyprus will be yours once again!
+Barnabas?: Quite a toy you have there. Do you mind if I borrow it?
+Maria: So, you had it all along…
+Altair: And now you see what kind of weapon it could be, in the wrong hands.
+Maria: I don't know that I'd call yours the right hands.
+Altair: No. Quite right. I will destroy it… or hide it. Until I find the archive, I can't say.
+Maria: Well, look no further. You're standing on it.
+Soldier: Kill him! Kill the Assassin!
+Maria: This way! Quickly!
+Armand Bouchart: Witless Emperor Comnenus… he was a fool, but he was OUR fool. For almost a decade we operated in secret on this island. Our Archive was the best kept secret on Cyprus. Unfortunately, even the best laid plans were not immune to Isaac's idiocy.
+Altair: He angered King Richard and brought the English a little too close for comfort. Is that it?
+Armand Bouchart: Fortunately we were able to convince Richard to sell the island to us. It was the only way to divert his attention.
+Altair: Purchasing what you already controlled…
+Armand Bouchart: And look where that has gotten us. Ever since you showed up and stuck your nose into too many dark corners, the Archive hasn't been safe.
+Altair: I wish I could say I'm sorry. But I tend to get what I want.
+Armand Bouchart: Oh, not this time. Assassin. Not now. Our little detour to Kyrenia gave us just enough time to dismantle the Archive and move it.
+Altair: You weren't shipping Artifacts To Cyprus… you were shipping them OUT!
+Armand Bouchart: Exactly. But not everything has to go… I think we'll leave you right here.
+Armand Bouchart: Ah! You are a… a credit to your creed. Altair.
+Altair: And you have strayed from yours.
+Armand Bouchart: Not strayed… expanded. The world is more complicated than most dare admit. And if you, Assassin… if you knew more than how to murder, you might understand this.
+Altair: Save your lecture on virtue for yourself. And die knowing that will never let the Apple of Eden fall into any hands but my own.
+Armand Bouchart: Keep it close, Altair. You will come to the same conclusions we did… In time…
+Maria: Everything I worked for in the Holy Land, I no longer want. And everything I gave up to join the Templars… I wonder where all that went, and if I should try to find it again.
+Altair: Will you return to England?
+Maria: No… I'm so far from home already, I'll continue on… East. To India perhaps. Or until I fall off the far edge of the world…. And you?
+Altair: For a long time under Al Mualim, I thought my life had reached its limit, and that my sole duty was to show others the same precipice I had discovered.
+Maria: Yes, I felt the same once.
+Altair: As terrible as this artifact is, it contains wonders… I would like to understand it as best I can.
+Maria: You tread a thin line, Altair.
+Altair: I know. But I have been ruined by curiosity, Maria. I want to meet the best minds, explore all the libraries of the world, and learn all the secrets of nature and the universe.
+Maria: All in one lifetime? It's a little ambitious…
+Altair: Who can say? It could be that one life is just enough.
+Maria: Maybe. And where will you go first?
+Altair: East…
+Old Altair: Our origins seem chaotic, unintended. With purpose and being instilled solely by the passage of time. Imposed by nature - and only later, by men. What should we do with this rare gift of life?

@@ -1,0 +1,627 @@
+Man: Hey, Jill.
+Jill: Incredible...
+Man: The Queen Zenobia? This thing is lucky to be afloat.
+Jill: Take us around. Let’s find a boarding point.
+Jill: It’s been 94 minutes since Chris and Jessica dropped off the radar.
+Man: But the interpolation from their last coordinates puts them--
+Jill: Right here on the ship.
+Man: Jill, you OK?
+Jill: I might be able to shoot it off.
+Man: What a stench.
+Jill: It's been abandoned for a while.
+Man: No signs of life, but I feel like something's here. Hey! What? What happened?
+Jill: I don't think we're alone.
+Jill: That doesn't look like just water…
+Jill: There is blood coming from the ducts! It's arm... I've never seen a mutation like this.
+Jill: Parker, give me a hand here.
+Parker: Sure, no problem.
+Jill: I got something. I think it’s a gun.
+Parker: Now what?
+Jill: Give me a sec. 
+Parker: So it’s not Chris.
+Parker: This explains our missing crew.
+Jill: This is not good. Where are you, Chris?
+Reporter: This sunny and idyllic Mediterranean coast was the site of one of the world’s greatest structures. It took a full eleven years to finish constructing the world’s first aquapolis, the floating city of Terragrigia, a sustainable metropolis operating on a massive solar energy matrix and equipped with the latest green technologies. Never before had solar energy been used to supply power to an entire city. But in 2004, Veltro, a terrorist group opposing the city’s development, launched a bioterrorist attack. They not only released a virus, but also several creatures, known as bio-organic weapons, further complicating the situation. This launched one of the worst tragedies the world has ever seen. The FBC, the world’s leading counter-bioterror organization operating under the auspices of the U.S., was called in to direct efforts to contain the attack. The BSAA, a counter-bioterror NGO which operates independently of the interests of any one country, went in as observers to assist the FBC. Realizing the need for immediate and decisive action, Supreme Local Headquarters issued the order to use the city’s solar energy matrix on itself. Media outlets around the world began to refer to the incident as the Terragrigia Panic. Following the incident, the FBC announced it has successfully disbanded the terrorist group called Veltro. It is now 2005, and a sense of calm and security is finally returning to the people. But, as you can see, the lost city of Terragrigia remains inaccessible, a silent and potent symbol that bioterror poses for people around the world.
+O’Brian: Ah, there you are.
+Parker: O’Brian, you don’t normally join the fray.
+O’Brian: Well, my doctor told me I need exercise. I assume you both know that the FBC has cordoned off the entire area. However, in the past few weeks a number of mysterious carcasses have washed up.
+Parker: I guess the FBC couldn’t cover up a mess this big, huh?
+Jill: Anyone who knows what happened here is gonna out two and two together.
+O’Brian: And that’s why I’ve seen the BSAA in to investigate. Did you pick up your new equipment from Quint?
+Parker: Yeah... “Genesis” or something. Is that its name?
+Jill: You didn’t bother to read the manual, did you?
+Parker: No, I brought it with me, just in case.
+O’Brian: I hope you read quickly, because you’re going to need it on your mission.
+Parker: Yeah, yeah. I’m on it.
+UNKNOWN: [Genesis Manual Version. 1.0.9]\n"Genesis"\nThe nickname of a high-level bioscanner currently being tested and developed by the Global Pharmaceutical Consortium. It bounces special synchrotron radiation off of a target in order to analyze it.\n"Viral Analysis"\nIt is possible to detect and analyze even the smallest amount of viruses.\n"Vaccine Manufacturing"\nSince ver. 1.0.4, it has been possible to produce simple vaccines from the viral analysis data.\n"Detection"\nUsing synchrotron radiation, it is possible to detect specific objects. The data for bullets, medicinal herbs, etc., are registered within the internal memory for testing. If a detectable object is nearby, the indicator in the lower-right area of the monitor will light up.
+O’Brian: Look at this mess. They are rotted to hell. The Genesis requires a decent sample size to get an accurate reading. Scan the carcasses on the beach and send me your data.
+Parker: Have a look at this.
+Jill: I'm getting something... from inside it.
+Parker: Careful now.
+Jill: Don’t worry, I’ve done this before. I’ve got something. What is this? If it’s an engineered mutation, this could prove a link.
+O’Brian: I’ll run some tests on this. Continue with the investigation.
+Jill: It moved!
+O'Brian: Careful, you two! God only knows what strain of virus we're dealing with.
+Parker: I kinda figured that. Don't worry we're on it. After Raccoon City this must be a cakewalk.
+Jill: I suppose. So why'd you quit the FBC for this outfit?
+Parker: I wanted to be more involved. I wanted to fight.
+O'Brian: I see you two are OK. Continue with the investigation, but proceed with extreme caution.
+Jill: Eww. That smell. Must've ruptured from gas.
+Parker: Christ, what a mess.
+Jill: I’ve collected enough samples.
+O'Brian: Good. Get it to me ASAP.
+Parker: Shit! Why the hell don't these things stay dead!?
+O'Brian: More of ‘em? Hurry up and neutralize them.
+Parker: Finally, some peace and quiet.
+O'Brian: All in a day's work for you two, eh? Alright, enough chit-chat. Get that sample data to me.
+O’Brian: There you are. Nice work.
+Jill: No doubt about it. These corpses show signs of viral infection.
+Parker: And I bet it’s no coincidence they came through the FBC’s blockade.
+O’Brian: Well, we’ve done all we can. Now we wait for the results to come back from HQ. Huh? It’s the emergency line. Yeah, it’s me. Uh huh. What? Yes, that’s fine. I’ll take it from here. We’ll have to speed things up. Starting now… Uh-huh. Good, get to it. Jill, Parker, you two are still on the case.
+Jill: What happened?
+O’Brian: We lost contact with Chris and Jessica.
+Parker: When? How?
+O’Brian: We’re not certain. I’ve sent their last known coordinates to your terminals.
+Jill: The signal was lost over the ocean. I thought they were in the mountains chasing Veltro. But judging from their position, they must be…
+O’Brian: On a ship. I’ll go back to HQ, take charge of the search and rescue. You two will be my eyes out there.
+Parker: Yes, sir.
+Parker: Think these things got to Chris and Jessica?
+Jill: I hope not.
+Parker: Hey, no one’s saying Chris is dead.
+Jill: All right, then let’s find him already.
+Parker: You hear that? Was that the lock?
+Jill: I'll check it out.
+Parker: OK. I'll see what I can find here.
+Jill: Copy that. I’ll radio you if I pick up Chris' trail. This thing has a lot of similarities to the corpses on the beach.
+Parker: Christ, this thing's… No, it can't be...
+Jill: Chris! Chris! C'mon, say something! I find Chris, but he's trapped in there.
+Parker: Can you get him out?
+Jill: No, it's a tough lock. I need the key.
+Parker: OK, then let's find it.
+Parker: Jill, what's going on?
+Jill: I found a survivor. The B.O.W.s got her though.
+Parker: Who was she?
+Parker: I'm still trying to piece that together.
+Jill’s thoughts: She doesn't look like one of the crew. She could be from another organization.
+Jill: Parker, I couldn't find anything out on the woman, but I did ﬁnd a key.
+Parker: Let's try it out. I'll meet you under Chris’ room. See you there.
+Jill: Chris! Chris? What is this?
+Parker: Oh, great…
+Parker: Shit, it’s a trap!
+Veltro soldier: It’s time you learned the truth... Ms. Valentine.
+Jessica: Slow down, Chris.
+Chris: We’re almost there, Jessica.
+Jessica: I certainly hope so. My feet are killing me.
+Chris: Our source indicates the camp is on the far side of this peak.
+Jessica: Maybe it's the weather, but I still can't make contact with HQ. Who’d of thought we'd be stuck out here for so long. The plane! My God… it crashed. There shouldn't be any shipping routes in this area.
+Chris: Then the intel we got on Veltro was on the money. Come on.
+Jessica: Jesus… No one could have live through that.
+Chris: Investigate the site. Lets me know if you find anything. What the hell were they carrying? I found some faint traces of a virus here.
+UNKNOWN: [On Handling the New Prototype]\nThere will be a new prototype introduced on this mission. All mission participants are urged to use extreme caution!\n1. When handling the special prototype, all instructions by the handler must be followed to the letter.\n2. In the event of an emergency, follow the contingency guidelines in the Hazards and Emergencies Manual.\n3. Once the prototype abilities have activated, it will be impossible to control them. The prescribed sedative must be administered every hour during transport.\n4. While it is possible to control the special prototype, its behavior in the field cannot be accurately predicted.\nWhen control is no longer available, please contact HQ on the dedicated line.
+Jessica: Chris, do you really think we're dealing with Veltro again?
+Chris: Hard to say. I find it difficult to believe they survived Terragrigia though.
+Chris: The manifest should give us a lead to work with.
+Jessica: Let's see... They were headed... Valkoinen Mokki Airport.
+Chris: If that's where they are this mine should take us there. Jessica, I need a hand!
+Jessica: Hold on. This cave is too cold.
+Chris: You should've worn your thermal underwear.
+Jessica: Hey, did you hear that?
+Chris: I think they're infected. Careful, Jessica!
+Jessica: See? This is why I like chihuahuas. Was the plane transporting these things?
+Chris: Looks that way, doesn't it.
+Jessica: Then Veltro is back from the dead...
+Chris: Yeah, and we have to stop them before anyone gets hurt.
+Jessica: So… Jill, was it?
+Chris: Was what? Stay focused.
+Jessica: She was your partner before, right?
+Chris: Yeah, my partner. From before. What about it?
+Jessica: I was, you know, just asking.
+Chris: Oh, shit…
+Jessica: Chris! Are you OK?
+Chris: It's just my leg. I'm not going anywhere for a while.
+Jessica: Hold on, I'll be right there! I've got your back! Damn it! Why now of all times?!
+Chris: Damn, there’s too many of ‘em.
+Jessica: Hang in there, Chris!
+Chris: Shit, my ammo not gonna last.
+Jessica: Aren't there anymore decoys? Me and my sweet ass are on the way! Can you stand?
+Chris: Thanks... I'll be OK.
+Jessica: Sorry to bring this up again, but…
+Chris: Bring what up?
+Jessica: Do you trust me as much as Jill?
+Chris: There’s no need to compare. I trust you both. Besides, trust is built through actions not words.
+Jessica: That's so like you, Chris. It's always about the job, isn't it. Look. Is that the airstrip?
+Chris: That's their hideout.
+O’Brian: This is Forkball. Do you read?
+Chris: Chris here. I read you, sir.
+O’Brian: Are you alright? Where are you?
+Chris: The interference here killed our signals. We’re at Valkoinen Mokki Airport.
+O’Brian: Damn it. It was all a setup.
+Chris: What do you mean?
+O’Brian: I sent Jill and Parker to the Mediterranean on faulty intel and now I’ve lost contact with them. I haven’t heard from them since.
+Chris: How? What’s going on?
+Jessica: Chris, you better look at this.
+Chris: That’s impossible.
+Jessica: O’Brian, you’re not gonna like this. We found the Veltro crest.
+O’Brian: Then stories of their resurrection are true. If that’s the case, then…
+Jessica: Then the setup that got Jill and Parker, it was all…
+O’Brian: Yeah, I’d almost guarantee it.
+Chris: O’Brian, we’ll go after Jill and Parker. I hope that’s not a problem.
+O’Brian: Not at all. Make your way to the Mediterranean and we’ll keep you posted.
+Jessica: Any idea what’s going on?
+Chris: We’ll sort it out later. We have to move.
+Jill: What? Where…?
+Parker: Jill?
+Jill: Parker!
+Parker: Where are you?
+Jill: I don't know. A room I think. Somewhere on the ship.
+Parker: Dammit, bastard took all my weapons.
+Jill: Can you reach HQ?
+Parker: No, comms are out it seems. We should regroup.
+Parker: Jill! Are you OK?
+Jill: I'm fine but this ship’s crawling with B.O.W.s.
+Parker: OK, we're going to need our weapons. I think I saw them on my way here, but I couldn't reach them.
+Parker: Wait, there are more creatures this way. I found this though. Think we can use it?
+Jill: Yeah, it just might do the trick.
+UNKNOWN: [Botany Plants with Medicinal Properties 3rd Edition]\nHumans have been using plants to heal wounds and cure diseases ever since ancient times. An example of one of these types of plants is a herb that grows wild in the Arklay Mountain area.\nThe bright green herb not only heals fatigue, but it also helps to strengthen the natural healing process so that wounds heal faster. In addition, it has an active immune function that can be extremely useful against viral infection.\nThe medical applications are vast and they are already starting to be used In the field. Please consider supplying yourselves with these herbs in order to protect yourself and your family from the recent threat of bioterrorism.
+Parker: The weapons I found are just up ahead. Hurry. Jill, I found our weapons. They’re in here. We got our equipment. Now what?
+Jill: Now we contact HQ and tell them that the hell is going on.
+Parker: We should be able to do that from the bridge. Let's go. Dammit, these things are hiding everywhere.
+Jill: Someone's been here…
+Jill: I'm at the bridge! The communication system is down. We can't change our course. We're completely adrift.
+Parker: This is recent. The perpetrator can't be far.
+Jill: Don’t tell me that was the tugboat.
+Parker: Shit, well be stuck here! Jill! Freeze! Drop the weapon!
+Man With Ginger Hair: Drop yours, Parker.
+Parker: Who the hell are you?
+Parker: Still hurting, Cadet?
+Man With Ginger Hair: No, I can still fight.
+Parker: That’s the spirit.
+Jessica: It’s over… this city is finished.
+Man With Ginger Hair: Your efforts are commendable. This is one wake-up call which was long overdue... Fine work.
+Morgan: Jessica, Parker--come in. The facility has been breached. We're closing shop. Prepare to go home. Split up and get ti the helipad on the roof. That's an order.
+Parker: I’ll cover the hallway with Jessica.
+Morgan: Cadet, make sure they reach the heliport.
+Parker: Fine.
+Jessica: Parker, they've started evacuation procedures here. O'Brian?
+O'Brian: I'm the only one left, General Morgan. The BSAA has pulled out. I want you to know that the FBC is making a huge mistake.
+Morgan: We have been at war for three weeks in an attempt to handle this matter. There have been rescues. There have been losses. Too many. But any further delays would simply cripple our cause. Surely you can understand that?
+O'Brian: I'm afraid I cannot. Obliterating the site by satellite is only a quick fix.
+Morgan: We could lose crucial evidence. Use of the satelite has already been approved. We cart clean up this mess.
+O'Brian: I guess you've thought of everything. Even the FBC, may not be able to cover its tracks on this one.
+Morgan: Let the havens scorch the earth with justice.
+O'Brian: These unilateral "solutions" of yours only create a new Veltro, perhaps a dozen of 'em.
+Morgan: Yes, there's the rub. Men like us can exist thanks like that.
+O'Brian: And you'll just let all those people die...
+Morgan: Are you finished now, Director O'Brian? Everyone, you have your orders. Move into position. Raymond, with me.
+Raymond: Yes, sir...
+Parker: You think this is it?
+Jessica: Not if we shoot all them sons of bitches first.
+Parker: Here they come! Open fire!
+Jessica: I don’t think the two of us will be enough!
+Parker: If we wanna make it outta it's gotta be. After this we head for the chopper.
+Jessica: How many are there? Did Veltro make them all?
+Parker: We can't contain this. God help the world when they find out. Everyone will equate Veltro with terrorism.
+Jessica: I think that's what they're hoping.
+Jessica: That takes care of that.
+Parker: Right, now it's our turn to get on that chopper.
+Jessica: That elevator should still be operational.
+Parker: They climb the walls, too? Great… We'll he cornered. We have to hurry. Sorry to drag you into this.
+Jessica: That's fine, but you're buying me dinner next time. And I'm ordering lobster. What the –?
+Parker: Broke already?
+Jessica: And that was the last working elevator. How do you feel about stairs? Actually, I'm not sure how I feel about stairs...
+Parker: So, what do you think about that O’Brian guy?
+Jessica: The BSAA director? Not my type.
+Parker: What’s not what I meant.
+Jessica: ...I think he’s in the right. He needs to stand up to General Morgan.
+Parker: Yeah, I agree. I think being in the FBC distorts your moral compass.
+Jessica: You sound just like him. Still, I wouldn’t mind being on the right side of the fight. The elevator's on the sixth floor! Hurry! Are you kidding me!? A dead end?
+Parker: We can get through here. Give me a hand.
+Jessica: OK, I'm coming! For the love of God!
+Parker: Jessica, hurry! Persistent little bastards. Hope this holds 'em.
+Jessica: Come on, the elevator's just ahead.
+Parker: Damn. Come on!
+Jessica: They're here!
+Parker: I think they’re here for you. It's because you're a flirt.
+Jessica: Sorry, I don't date cannibal monsters. Jesus, I thought it was gonna stop again.
+Parker: Yeah, we're fine. But that was crazy. I can't believe Morgan decided to fry the city with the solar energy satellite.
+Jessica: Raccoon City all over again.
+Parker: Yes, wiped off the face of the earth. By tomorrow morning, Terragrigia will be just be a name in a history book.
+Jessica: ...We did do everything we could, right?
+Parker: I hope we did.
+Jessica: Well... Just don't forget about that lobster dinner you owe me.
+Parker: Heh. When have I ever gone back on my word?
+Raymond: Get the lead out. We gotta go!
+Parker: OK, ladies first! It’s triggered a chain reaction. Look, the city…
+Jessica: The city’s so bright…
+Parker: And Terragrigia is…no more.
+Jessica: We came to help, but did nothing…
+Parker: Raymond? That’s you, isn’t it?
+Raymond: The BSAA… A little too late.
+Parker: What is the FBC doing here? Answer me, Raymond!
+Raymond: I don’t have to answer anything. You have no authority over this.
+Jill: There’s no time to fight. We’ve gotta--
+Raymond: Give it a rest. You don’t even know why you’re here or who you’re fighting.
+Parker: Raymond! Stop right there!
+Raymond: Nothing will change unless you get your hands dirty.
+Jill: So the FBC is on this ship, too. What’s going on here?
+Parker: We're operating without any intel. We need to search this ship for answers. Not that I relish the idea.
+Jill: We should find an emergency communication room if we go through the hall.
+Jill: It must have been a painful death.
+Parker: We should get to the emergency communication room, maybe try to contact HQ.
+Parker: Alright, we got to find Raymond.
+Jill: How do you know him?
+Parker: I used to work with him. Let's leave it at that.
+Parker: Now this is what I call a cruise ship. It’s like an opera house in here. So, where is this emergency communication room?
+Parker: Jill, someone posted a note here. The Promenade deck is next to the hall. Let's go. We should be able to find the key we need. Looks like we found the promenade deck. There’s monsters hiding behind every corner.
+Jill: And we have yet to find one survivor.
+Parker: What the--? Careful, he looks stronger than others!
+Jill: Oh no. I think this creature might be the Comms Officer.
+Parker: I think you're right! He's not in any condition to communicate with anyone. Persistent son of a bitch! All these mutated freaks are a real pain in the ass! I think he dropped something.
+Jill: Is that the key to the emergency communication room?
+Parker: Yeah, let's leave this monster-infested hellhole.
+Jill: I hope the equipment in that room will work.
+Parker: Don't jinx us now, Jill. You bad predictions tend to come true.
+Parker: What is this place?
+Jill: I'll be able to purify the room with this.
+Jill: There we go.
+Parker: The filtration's gonna take a while. Should’ve know. I’ll come back later.
+Parker: Raymond!
+Raymond: Looks like we both were too late.
+Parker: What are you talking about?
+Jill: Both of you, look.
+Raymond: Our little masked friend.
+Masked Man: “But if my words be seed that may bear fruit of infamy to the traitor whom I gnaw. Speaking and weeping thou shalt see together.” “I know not who thou art, nor by what mode thou hast come down here.” The world is in our hands. This is the T-Abyss virus, and we are equipped to infect one-fifth of the earth’s waters.”
+Man With Coffee Mug: He’s turning guppies into Jaws!
+Man in Hat: Shh, quiet.
+Masked Man: And even a child could guess what will happen next. We are Veltro, vengeful messengers from the depths of the inferno.
+Jessica: So this is our man. I knew this was Veltro.
+Unmasked Man: “Abandon hope all ye who enter here.”
+Quint: “Abandon hope”? He’s quoting Dante...
+Chris: Send a team to Valkoinen Mokki Airport. Look for something linked to this ship, O’Brian.
+O’Brian: Yes, I read you. I’ll send Quint and Keith.
+Quint: What?
+O’Brian: You two, get ready to move.
+Quint: Aw, I hate snow.
+Keith: Snow hates you.
+O’Brian: Just find out anything you can on Veltro.
+Jessica: I don’t see a thing. I thought the Mediterranean was just like a big lake.
+Chris: Be patient. Finding a ship at sea is like finding a needle in a haystack.
+Jessica: No kidding. But that still doesn’t solve our problem. Hey, are you even listening?
+Chris: We’ll find you, Jill. I promise.
+Masked Man: We are Veltro, vengeful messengers from the depths of the inferno.
+Parker: Damn terrorists.
+Raymond: We killed these bastards already.
+Jill: It looks like you missed a few. And they’re on this ship.
+Parker: And now they want to use the virus to stage another attack.
+Raymond: They seek the truth about Terragrigia… and vengeance.
+Parker: Jill, look at this. The whole ship's out of power. The ship's running on emergency power, but the comms system needs the main power. We need to bring the engine room back online, but that won't be easy.
+Jill: Raymond!
+Raymond: Take it. You might need it. Like you said, turning on the power won't be easy.
+Raymond: That key will get you through the casino on the first floor. Then you'll find a lift to take you to the bilge. But tell me something first. You didn't see any other BC members here, did you? I can’t reach my partner, Rachael. Damn it… I haven't heard from her since he went to the bilge.
+Jill: Should we look for this Rachael woman?
+Parker: We can, but after we bring back the ship's power.
+Parker: It's a luxury ship. They have things like casinos.
+Jill: Holy–!
+Parker: Shit, it's been infected! Watch out!
+Jill: I saw these in the video...
+Parker: A gift from our fiend in the gas mask? I should thank him.
+Parker: So I can get more coins with this? I wish I had one of these at home.
+Parker: Here's the lift. Hope it still works. Oh, Christ. The key's gone.
+Jill: I'll look around for it.
+Parker: OK, I'll check around here, see if its turns up.
+Jill: Radio me if you find it.
+Parker: Didn't Raymond say his partner was in the bilge? That means Rachael or whoever has the key. We just have to find her.
+Jill: I think I might have an idea where she is...
+Parker: That corpse you ran into earlier?
+Jill: Yeah, I just pray it wasn't her.
+Jill: This is where I found that dummy of Chris. Where is the real Chris?
+Jill: OK, it was around here... Oh, shit! You–!
+Parker: Jill, what's wrong!?
+Jill: I found the target. But she's a zombie.
+Parker: Isn't that always the case...
+Jill: She got away! She's in the ducts!
+Parker: Go after her! She could have the key. The ducts are all connected.
+Jill: OK, I'm on it.
+Parker: I'll make my way to your position soon!
+Jill: I can't believe she turned so quickly! This virus is more powerful than I had thought!
+Jill: So, it really was Rachael...
+Parker: Jill! Are you OK!?
+Jill: Does this mean Veltro fooled the FBC, too?
+Parker: Don't know. Maybe they're just using whoever they can. Right now we need to worry more about getting this ship operational.
+Jill: I hear something…
+Parker: Straight into the depths of hell.
+Keith: It’s freezing.
+Quint: Jackass here. We arrived at Valkoinen Mokki Aiport.
+O’Brian: This is Forkball. Good job. Get the lay of the surroundings and continue with your mission.
+Keith: So uh, how do you want us to proceed, O’Brian?
+O’Brian: Up to you. Do what you think is best.
+Soldier: What took you two so long?
+Keith: At least we’re here. What’s up with Veltro?
+Soldier: Not sure. We haven’t found a thing. No clues, nothing.
+Keith: So now what?
+Soldier: There’s an underground chamber. We’re preparing to storm it now.
+Quint: Well, that sounds like a job for us, don’t it, Grinder?
+Soldier: Wait, we haven’t received authorization yet!
+Keith: It’s all right. We’re on it, okay? Besides, if you need someone to sniff something out, ain’t no one better than my boy here.
+Quint: Hey, I’m right here, Grinder.
+Keith: So, you followed Jessica home. You know where she lives now?
+Quint: Almost. I had her until the very end, but I lost her near the—hey, you think I’m a stalker, don’t you?
+Keith: You said it. Come on, let’s go.
+Keith: Feels like something's gonna jump out.
+Quint: Watch your footsteps. We need to stay quiet.
+Keith: Yeah, I know.
+Keith: Weren’t you the one who said to stay quiet?
+Quint: Well, even Homer sometimes nods off, you know?
+Keith: ...That doesn't even make sense. Come on.
+Keith: There's a lock on it.
+Keith: Hmm. We might be able to open up that area that’s been sealed off. Hmm? The security camera’s have got something. This is what I found from the security feeds.
+Quint: That’s a freighter, ain’t it? Is this Veltro or that? Whoa, did you see that!?
+Keith: An outta control B.O.W.!?
+Quint: Talk about a wrench in the works. Keep it together, and… oh… They never had a chance.
+Keith: The time stamp places the crash at the same time as the one Chris reported.
+Quint: Is that in here?
+Keith: It certainly looks that-- Whoaagh! That the hell is it? It’s a poltergeist! Hey, Quint!
+Quint: I’ll switch the feeds, see where it goes.
+Keith: Ooh, we got a live one here.
+Quint: Shh. Quiet!
+Keith: Hey, what the hell was that?
+Quint: I told you to be quiet…
+Quint: There’s something there… I dunno what, but we can't see it. Oh, nasty...
+Keith: Hey, did he just drop something!?
+Quint: This is deﬁnitely for mature viewing audiences.
+Keith: That's some shocking footage there.
+Quint: One of the vics left it behind. What s it?
+Quint: This is the place from the security feed!
+Quint: It’s a security token. I can breach the master network of the plane’s on-board computer if I can just extract the WEP key from this dongle.
+Keith: Whatever that means. Just do your thing.
+Quint: It means that we can scavenge the data on that freighter.
+Keith: Now you’re talking.
+Quint: I’ve seen enough. Let’s head to the crash site.
+Jill: What’s that sound? Water?
+Parker: Yes. It’s coming from there.
+Jill: Where's the leak?
+Parker: Damn you, Veltro. Are you trying to sink the ship along with your new virus!?
+System: Attention! There is flooding in the bilge! The bulkheads cannot be lowered during a power outage. Power can be restored from the, engine room.
+Parker: Then we’d better find the engine room on the double.
+Jill: The water‘s getting higher.
+Parker: Come on there's no time to lose. This one’s a swimmer. I'd try t stay out of the water.
+Parker: Alright, this is where we reset the power, but nothing's working. I’ll see if I can figure this out, OK? I need you, however, to go try that control panel over there.
+Jill: No problem. I'm on it.
+Jill: It's OK, I made it. There are no keys here
+Parker: Shit! My guess is you have to start them both simultaneously.
+Jill: Then we really need that key.
+Jill: There’s something inside.
+Parker: Repairs are complete. Meet me in the engine room.
+Parker: I’m ready to restart this baby. Get in position.
+Parker: There, good as new. What the--?
+Jill: What happened?
+Jill: We’re running out of time!
+Parker: Damnit! Jill, it’s not stopping!
+O’Brian: Okay, I understand the situation. The security token you found likely belongs to the freighter that crashed.
+Quint: Boss, have you heard from Jill and Parker yet?
+O’Brian: No, not yet. Their investigation led them out to sea, but we lost track of the ship.
+Keith: That doesn’t sound good. I hope they’re okay.
+O’Brian: Yeah, me too. They’ve been out of contact too long and I’m starting to get worried. Find a terminal at the crash site and see what you can learn of Veltro’s plans.
+Keith: That crash site’s just up ahead. Come on.
+Quint: Wouldn’t it be great, Grinder, if we found the key to ending this whole mission?
+Keith: Pretty bright out for this time of night. I guess that why they call it the Midnight Sun.
+Quint: B.O.W.s! I knew something like this would happen!
+Keith: No, because they're wolves and their heads don't split open.
+Quint: Grinder! I'm gonna go check out the terminals! You have fun with these.
+Keith: Quint! Don't just let me here... damn computer nerds.
+Quint: C'mon, Grinder. Whatchya doing?
+Keith: Yo, calm down. What's wrong with you?
+Quint: Something---! I don’t know! It’s loke something hit me!
+Keith: What?
+Quint: Look! I just got hit! It was the invisible man or something. I’m sure of it!
+Keith: For real?
+Quint: It’s a Hunter! It disappeared!
+Keith: Now I get what happened on the security feeds!
+Quint: That was the ghost! It's a new type of Hunter!
+Keith: Thanks for the explanation… Did I mention this blows?
+Quint: One down! Which leaves us with… I can't tell ‘cause I can't see 'em!
+Keith: This blows. Another one goes down! Quint, how many left!?
+Quint: I told you, I don't know 'cause I can't see them!
+Keith: This really blows.
+Keith: I don't think there's any more.
+Quint: Then let's get to the terminal on the plane before any more monsters show up.
+Keith: OK, everything appears to be in working order.
+Quint: I can’t find the call log. I’ll have to try something else.
+Keith: No sweat. You’re good with machines. The ladies on the other hand…
+Quint: Grinder!
+Keith: What’s going on?
+Quint: We need to contact HQ A-sap!
+O’Brian: HQ here, O’Brian speaking. What’s—
+Quint: This is Jackass. I got the coordinates on the ship. I’m sending them now.
+O’Brian: Good work. That’s music to my ears.
+Keith: Nice one, getting the coordinates like that.
+Quint: Well, I could have calculated travel time, last known route, but that would have taken too long.
+Keith: That’s why I said “Nice one.”
+Quint: You don’t understand. I didn’t calculate anything. We’re not the only ones looking for that ship.
+Keith: Wait, what’re you talking about? You’re saying Veltro ran from their own hideout and now they’re looking for their own ship?
+Quint: That’s what I’m saying. But I have no idea if any of the info I gleaned is for real or not.
+Keith: Great. So we have no idea really who we’re up against.
+Quint: Exactly. And that’s a piece of the puzzle we really need.
+Chris: Chris here. I received the coordinates.
+Jessica: That’s not far. We can be there in no time.
+Chris: O’Brian, we’re on our way.
+Jessica: Where could they be?
+Chris: Anywhere. Let’s get started.
+Jessica: How are you planning to ﬁnd them?
+Chris: No plan, just search every room.
+Jessica: Great… What if Veltro finds us first?
+Chris: Then we capture 'em, and interrogate 'em.
+Chris: This is a new mutation… A reaction to a new virus.
+Jessica: I knew this would happen. They just keep coming! We'll have to blitz through them! God, what is with this ship!
+Chris: I just hope that Jill and Parker are OK!
+Quint: Come in. Jackass here. Give me a sit-rep.
+Jessica: Hey, there. Any idea where we find Parker and Jill?
+Quint: J-Jessica!? Um, yeah... Uh, hold on! Judging by the ship's condition, I believe there’s a problem with the engines. I’d wager they're in the ship's bilge trying to get them going again.
+Chris: That makes sense. We’ll head down there now.
+Jessica: I'm pretty sure there's something in there… See? I told you!
+Chris: No need to gloat. Just shoot it!
+Jessica: Oh, please! Stay the hell the way, ugly!
+Jessica: So Veltro wants to unleash this virus on the world.
+Chris: Right, but it has already infected the ship...
+Parker: Damn. Somebody, anybody! I will be at your service forever!
+Jill: Don’t give up, Parker. There has to be a way!
+Jessica: I just had no idea it’d take so much to rescue them. Parker is going to owe me a nice dinner for saving his ass.
+System: Attention! Engine trouble found. Report to the engine room immediately.
+Jessica: There's more of them here!
+Chris: Don't stop shooting.
+Quint: The engine room's around there! Hurry!
+Jessica: Nobody home.
+Chris: Where’d you go, Jill?
+11:43 Bilge Passageway
+Parker: This is not good…
+Parker: No problems, eh, Jill?
+Jill: A little close for comfort. It's still filling up...
+Parker: The bower's back. We can bring down a bulkhead in the control room.
+Jill: The power’s back. We can use it.
+Parker: Alright. That should hold us for now.
+Jill: I’ll check the control system.
+Parker: Damnit, I don’t have a signal. Maybe the antenna array is out.
+Jill: It’s on the observation deck. Maybe we can fix it. I’m sure the view is nice.
+Parker: Me too. Let’s move.
+Parker: The observation deck! We can climb up there from the hall. Did that stop it? The water's still--
+Jill: It's OK. The bulkhead's closed. We just have to wait.
+Chris: No. We’re on the Queen Semiramis.
+O’Brian: Okay. Well, Quint learned there were two ships during his investigation. You must be on the Queen Zenobia’s sister ship. Jill and Parker are probably being held on that ship.
+Chris: Have you been able to locate it?
+O’Brian: No, but I’ve got my top people on it?
+Chris: Not much time has passed, right?
+O’Brian: Correct. It’s possible that up until a few hours ago, the ships were traveling together. Search the area, see what you can find.
+Chris: Roger that.
+Parker: Any idea what Veltro's trying to do, aside from jerking us around so we don't know what we're doing?
+Jill: Who knows? We haven‘t seen hide nor hair from them since that video.
+Parker: Yeah, I don't like it. The sooner we get to the observation deck and contact HQ the better.
+Jill: At the very east, I hope they've picked up Chris' whereabouts.
+Jill: It's moving.
+Parker: Good, now we can get to the observation deck. What the --?
+Jill: Somethings up there!
+Parker: What the hell is that!? Kill it! We don't have time to talk to it! You sneaky sonuvabitch! Take this! Wonderful! That thing'll put us over the weight limit!
+Jill: Is it gone...? Are we in the clear?
+Parker: Alright, we're finally here. And... it's night out, so there's nothing to see.
+Parker: Is this the same one from before!?
+Jill: Yeah, I think it's stalking us!
+Parker: Take that, you son of a bitch! Damn, this thing's tough! How do you like that, bitch!?
+Jill: Careful, one hit and you'll be done for.
+Parker: What the hell is this thing!? Look at it! How is it even alive!? What does it take to kill this thing! What a pain in the ass piece of shit. What a night!
+Jill: The antennae is up above.
+Parker: It's good to take in the fresh air again.
+Jill: We got a lot more than we bargained for on this ship.
+Parker: Yeah, we've been fighting for our lives this whole time.
+Jill: I hope we can catch our breaths after checking in with HQ. I'll check the antennae’s wiring. I think that should do it. I’ll give it a shot.
+Parker: I hope it works.
+Jill: This is Vermilion. Headquarters, do you read...
+O’Brian: O’Brian here. Are you two alright?
+Jill: We did it!
+Parker: Boss, it's Parker. Shit hit the fan and it hit really hard.
+O’Brian: I know. The whole thing Was a setup, and we fell for it.
+Parker: How do you know!? How do you know it’s a setup? What is it, boss? Say something!
+O’Brian: Just stay put. I’ve got an emergency call.
+Parker: No, wait!
+Woman: Director O’Brian, we’ve received an emergency call from the ESF. They’ve reported satellite movement.
+O’Brian: The European Security Force? Go on.
+Woman: Yes, sir. Apparently Terragrigia’s solar energy integrator is being reactivated.
+O’Brian: Already in motion, are we? Looks like somebody’s found the Queen Zenobia. You haven’t changed a bit. Parker!
+Parker: HQ, what’s going on?
+O’Brian: All hell’s about to break loose. The solar energy matrix has activated. They’re aiming on the Veltro hideouts on the Mediterranean disguised as cruise ships.
+Parker: The satellites that destroyed Terragrigia!
+Jill: Are right above us. They can’t just ignore the ultimatum and obliterate this ship!
+Parker: Boss, get us out of here!
+O’Brian: Sorry, but I can’t authorize that.
+Jill: Sir, what is going on?
+O’Brian: Uhh, you're out of time, I'm afraid. The rescue just isn't possible. Chris is traveling by sea. ...He won't reach you in time.
+Jill: Chris! He's alright!?
+O’Brian: No time to explain. I'll do what I can to stop the attack. O'Brian out.
+Parker: Shit, I think this is the worst day of my life!
+Quint: Jackass here. The chief has filled me in on you predicament. There's only one thing you can do - confuse the satellite’s targeting system.
+Parker: How the hell do we do that!?
+Quint: I know everything about that ship. I can figure this out. Just get back inside for now. I’ll radio you again soon.
+Parker: Dammit! It stopped.
+Quint: I know what you have to do. You're gonna use the UAV.
+Jill: The UAV? There's a drone plane on this ship!?
+Quint: Yup. Veltro used it to carry out their attacks last year. It’s in a container on the foredeck. The UAV can discharge chaff that’ll throw the satellite's targeting system.
+Parker: OK. Then the foredeck is where we’re going.
+Quint: You'd better move fast. Quint out.
+Raymond: Yes... I see. I'll do what I can to stop the Regia---. I have to go. Do you want to die with Veltro, you want to live? Head to the foredeck. I'll do what I can here.
+Jill: It's Raymond. How does he know what we're trying to do?
+Parker: Hurry, Jill! The UAV’s in the foredeck. Shit, more Hunters!? It’s like all my worst enemies come back to haunt me!
+Jill: Not working. It must be locked down.
+Parker: Where's the UAV? Damn, more of them! That’s the UAV! Take out all he hostiles first! Finally, some peace and quiet.
+Jill: Over here. Thank God!
+Morgan: What could the BSAA want with me?
+O’Brian: How long as it been? One whole year?
+Morgan: I hate to disappoint, but you’re too late.
+Jill: We need this launched as far as possible.
+Parker: All set to go. Better late than never.
+Jill: Quint, we're good to go.
+Quint: OK, the remote pilot controls are in the ships hold! Get through the side deck to get to the hold.
+Parker: You could have told us sooner. Geez. Jill, this way's faster! Stick with me! We don’t have any time.\nCurrent Time, FBC Headquarters
+Morgan: You’re wondering why I’ve deployed the Regia Solis?
+O’Brian: Yes, what’s got you spooked? Isn’t it a little premature to call down the wrath of god?
+Computer: Satellite targeting system. Enter authorization.
+Morgan: The time has come, O’Brian. “Abandon hope all ye who enter here.”
+Computer: Authorization approved. Firing laser.
+Quint: I've calculated how much time you have. ...Sending it now!
+Parker: Hey, are we gonna make it!? Keep going! We don’t have time to play with monsters! Run, Jill! Don't slow up! Things are heating up. Jill… This is not good.
+Jill: Heating up? Parker, we have very little time! We're out of time...
+Parker: Come on, you don’t want to die here, do you!? Hurry it up! We're out of time!
+Parker: Rachael!? Damn it, don't you ever quit!? Where are the remote pilot controls!?
+Parker: Sorry, but I don't have time with you! Damn, we're out of time!
+Jill: These are the controls… Come on. Make it…
+Morgan: Immediate containment is imperative. Far too much is at stake here. You are blinded. A humanist with no cause. It’s a lost cause, Director O’Brian.
+O’Brian: Feel free to cut the bullshit, Morgan. You’re playing with fire again. But this time you will get burned.
+Morgan: Loose ends can only exacerbate the situation. Think twice, director, or you may regret it.
+O’Brian: Boy, you never disappoint, Morgan. But once we have the truth, your mistakes will never be repeated.
+Jill: Parker!
+Parker: Yeah, time to clear out. The water is rising. We have no choice; we have to get out of here. We're blocked in. Let's swim through the bulge and look for an exit.
+Chris: This is Chris. Vermilion! Parker, Jill! Listen carefully! The ship is done for, but we can't allow the virus to contaminate the oceans. Jessica and l are heading for the Queen Zenobia. Just hang on. We’ll contact you soon. Don’t die in there. Chris out.
+Chris: This is Chris. Are you two all right?
+Jill: Chris! Yes, we're fine. But the ship is sinking fast.
+Chris: We're approaching the Queen Zenobia now. Rendezvous at the ship's hall.
+Jill: Roger. We'll be waiting.
+Chris: OK, see you soon. Chris out.
+Jill: Hear that? There!
+Parker: Veltro! You almost missed the party.\nA Little Earlier, Mediterranean Sea
+Chris: We're approaching the Queen Zenobia now. Rendezvous at the ship's hall.
+Jill: Roger. We'll be waiting.
+Chris: OK, see you soon. Chris out. That's it. The Queen Zenobia.
+Jessica: Oh, jeez. More like what's left of her.
+Chris: Stay sharp. There's something out there.
+Jessica: God, these tentacles are so annoying! Why didn't we use the helicopter for this one, Chris!?
+Chris: Because the satellite's laser fried out all the electronics.
+Jessica: Yeah… it's worse than a blackout! How many of these things are there!
+Chris: Keep your aim sharp. They're not letting up. We're going around. Hang on! We need a good spot to board the Zenobia. We can board from here. Jessica, we have a promise to keep. Let's go.
+Jessica: Great. A cruise, just the two of us. Only the whole thing is sinking!
+Masked Man: Friendly BSAA patrons. You stopped the Regia Solis. Now I will reveal what I know. Everything about the Queen Zenobia and the secrets she keeps!
+Parker: What secrets?
+Masked Man: Consider this: First, why did it take till now to find the Queen Zenobia? How was it able to float around the Mediterranean undetected? It wasn't magic. Second, why did all traces of Veltro vanish after the Terragrigia Panic?
+Parker: Why don't you tell us, huh?
+Masked Man: ...And third… Why is someone trying to use the Regia Solis to destroy the Zenobia? The answers to those questions will lead, you to an inconvenient truth. You were to have found it, and that--
+Chris: Jessica! Why did you fire?
+Jessica: To protect our people? Isn't that our job?
+Chris: Don't you dare die…
+Chris: Damn! Raymond?
+Parker: What, why...? Why play the part of Veltro?
+Parker: What do you mean?
+Raymond: Find the truth about Terragrigia…
+Parker: What a terrible loss...
+Jill: This ship doesn't have much longer. We can't let this virus contaminate the sea.
+Chris: We've already searched the Queen Semiramis so I think I know where this ship's lab is. We're headed there now.
+Parker: Alright. I'll try to find a way to delay the sinking. Jessica, you with me?
+Jessica: Yeah...
+Parker: Well, a little friendly partner swapping should keep us on our toes.
+Chris: Roger that. We'll take care of the virus. You two buy us some time.
+Parker: Got it.
+Chris: Jill, this works anywhere, even underwater. It should slow those things down.
+Jill: Thanks, Chris.
+Chris: Also, I've marked off all the possible locations for the lab.
+Jill: He never got the hint. What a drag.
+Parker: Maybe he's already taken, Jessica.
+Jill: So this was all Raymond's doing?
+Chris: No, I think we've only heard half of the story. There's a lot about this mission that doesn't make sense yet. Hurry. We can cut through the bilge to get to the lab.
+Jill: Careful. The water is infested with infected.
+Chris: Roger that. The lab's just up ahead. Jill, try using this.
+Chris: I found that key on the Semiramis. If the ships are exactly the same, then the lab should be this way.
