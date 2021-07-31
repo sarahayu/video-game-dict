@@ -1,0 +1,470 @@
+UNKNOWN: "PDA: 30 seconds of oxygen remaining.
+UNKNOWN: "(beep) Oxygen.
+UNKNOWN: "PDA: Dangerous weather approaching, seek shelter.
+UNKNOWN: Calorie intake recommended
+UNKNOWN: Emergency, starvation imminent. Seek calorie intake immediately.
+UNKNOWN: Seek fluid intake.
+UNKNOWN: Seek fluid intake immediately
+UNKNOWN: Hypothermia imminent.
+UNKNOWN: PDA: Vital signs stabilizing.
+UNKNOWN: PDA: Adding emergency shelter blueprints.
+UNKNOWN: PDA: Your chance of survival would be increased by constructing an under water vehicle.
+ROBIN: Some of the wildlife down here is very... grabby.
+UNKNOWN: PDA: Warning: Passing 100 meters. Oxygen efficiency decreased.
+UNKNOWN: PDA: Warning: Passing 200 meters. Oxygen efficiency greatly decreased.
+UNKNOWN: PDA: Cannot build here; must be constructed in deeper water.
+UNKNOWN: PDA: New blueprint synthesized
+UNKNOWN: PDA: New creature discovered
+UNKNOWN: HABITAT: Power restored. All primary systems online.
+UNKNOWN: HABITAT: Warning, emergency power only.
+UNKNOWN: HABITAT: Welcome aboard captain
+UNKNOWN: HABITAT: Hull breach detected.
+UNKNOWN: HABITAT: Hull integrity restored. Draining systems initiated.
+UNKNOWN: HABITAT: Warning: Emergency power only. Oxygen production offline.
+UNKNOWN: SEATRUCK: Welcome aboard captain.
+UNKNOWN: SEATRUCK: WARNING: Approaching crush depth of {Crush Depth} meters. Hull damage imminent! Ascend ASAP!
+UNKNOWN: PRAWN: Welcome aboard captain.
+UNKNOWN: PRAWN: Warning: Emergency power only. Oxygen production offline.
+UNKNOWN: PDA: There is a large anomalous mass of rock that has broken away and risen above the surrounding terrain
+UNKNOWN: PDA: This vehicle lets you zip around on snowy surfaces, just like they did back in the snowfox derby of 2342.
+UNKNOWN: PDA: Ribbon plants contain electrolytic materials that can be used in energy storage.
+UNKNOWN: PDA: The Snowfox hoverpad will allow you to build, repair and customize the Snowfox. Now your vehicle can look foxier than ever!
+UNKNOWN: PDA: The Exosuit facilitates mobility in high-pressure and zero-gravity environments, turning the wearer into a bipedal mechanical rock puncher — rock grub ingestion not required.
+UNKNOWN: PDA: The seatruck is a modular aquatic navigation vehicle. For fun and function, additional modules can be attached to the back of the main cabin — or detached to evade predators.
+UNKNOWN: PDA: Made of tightly-knit kevlar microfiber and insulated with an alpine yoke around the neck and shoulders, the Cold Sult is designed to delay the onset of hypothermia.
+UNKNOWN: PDA: Used by miners and researchers to explore perilous environments, the thumper creates a steady source of noise that might repel unwanted creatures by amplifying collision soundwaves.
+UNKNOWN: PDA: With the builder tool, you can construct seabases from raw materials. Advising against exploring a frozen water continent without a base. No bed, no storage, no place to put a fabricator module, no fun.
+UNKNOWN: PDA: The seaglide is a personal transportation device used for high-speed free diving Contains a built-in light and map.
+UNKNOWN: PDA: The jukebox lets you listen to music in your base. No one said survival couldn't be funky.
+UNKNOWN: PDA: An aquarium just for looks, or your own personal sushi factory. You decide.
+UNKNOWN: PDA: A scanner room will allow you to survey the surrounding region for anomalies and rare resources like copper and aluminum oxide. And titanium, if you need help finding it. For whatever reason.
+UNKNOWN: PDA: Finally, a device that can put to good use those rechargeables lost to the back of catch-all drawer
+UNKNOWN: PDA: Ah, the sweet scent of dirty bean water.
+UNKNOWN: PDA: The growbed lets you grow plants and vegetables, providing flavourful options for evading scurvy.
+UNKNOWN: PDA: The standard oxygen tank can be upgraded for deluxe and VIP breathing.
+UNKNOWN: PDA: The rebreather facilitates extensive free-diving by recycling air more efficiently at significant depths. Breathe the freedom.
+UNKNOWN: PDA: If you are tired of hearing the word "oxygen," the Air Bladder provides a significant upward thrust to help you get to air faster.
+UNKNOWN: PDA: The pathfinder tool emits a sequence of way-markers to mark pathways and aid navigation in both land and aquatic environments.
+UNKNOWN: PDA: The flare emits flames through the combustion of potassium nitrate and aluminium. Can be used to repel predators.
+UNKNOWN: PDA: The laser cutter has many uses-- most of them laser-cutting. Use to open sealed doors and storage containers, and cut through ice bubbles, for an additional source of oxygen.
+UNKNOWN: PDA: In the control room, you can change base lighting and colors, rename your base, and see information about power and structural integrity. But not the integrity of societal power structures.
+UNKNOWN: PDA: The Vent Garden harvests geothermal energy to nurture the life that grows within.
+UNKNOWN: PDA: Proceed with caution. A leviathan class creature is near.
+UNKNOWN: PDA: Without Spy Penglings, scientists may have never discovered that Penglings incubate their eggs in small cave burrows, often alongside Thermal Lily roots.
+UNKNOWN: PDA: The tether tool facilitates instant travel to a paired seatruck teleportation module. lon aube required for use.
+UNKNOWN: PDA: The mineral detector can sniff out raw materials, potentially saving you hundreds of hours of searching.
+UNKNOWN: PDA: The headlamp comes with advanced weather-resistant strap that can withstand volcanic heat or an ice age blizzard. A perpetual, hands free light source in even the darkest environments.
+UNKNOWN: PDA: Enough energy to equal a small nuclear detonation, stabilized and contained in a small cube. An ancient Architect invention, lon cubes can be used to power several alien devices.
+UNKNOWN: PDA: Rising temperatures detected in mineral-rich fissure below.
+UNKNOWN: PDA: Mineral-rich crevices detected below. Geothermal activity detected. Caution advised.
+UNKNOWN: PDA: Use beacons to mark traversed territory. Now with surface support. Use your Xenoworx PDA to show or hide the signals of your choice.
+UNKNOWN: PDA: Inactive volcano detected nearby.
+UNKNOWN: PDA: Moulin in nearby iceberg detected: a hollow chamber typically formed by glacial melt.
+UNKNOWN: PDA: Hollow chamber in iceberg interior detected.
+UNKNOWN: PDA: Equipped with only a booster tank, Dr. Felicity Aman once escaped the underwater acid tentacle forest on planet Alpha671.
+UNKNOWN: PDA: Detecting stern of an astronautical Sol Transgov vessel nearby. Vessel name: Mercury II. Inoperative.
+UNKNOWN: PDA: Detecting bow of an astronautical Sol Transgov vessel nearby. Vessel name: Mercury II. Inoperative.
+UNKNOWN: PDA: Significant geothermal activity detected below. Beware of high pressure and temperatures.
+UNKNOWN: PDA: Combined with a frozen water source, water purification tablets can create drinkable water as you explore the snowy surface.
+UNKNOWN: PDA: This alien technology allows for the recycling of natural resource components without rinsing and sorting them into bins first.
+UNKNOWN: PDA: The nearby spires are substantial thermal vent structures, hospitable to coral formation.
+UNKNOWN: PDA: The aromatherapy lamp by Quasico can reproduce over seventeen thousand natural scents captured from hundreds of worlds.
+UNKNOWN: PDA: The antigravity pendulum of this executive meditation tool spins indefinitely by conserving momentum and recycling energy.
+UNKNOWN: PDA: A refillable flask to store dispensed contents from the coffee machine. Or tea. Or any other hot drinkable liquids you may find.
+UNKNOWN: PDA: Fruit salad does not traditionally involve leaves, but at least it is nutritious and warming.
+CAL: This is the farthest I can bring you on company space bucks, Robin.
+You sure you want this? The research isn't everything.
+ROBIN: It is to me. And Sam. I need to know what happened.
+CAL: The meteor storm--
+ROBIN: I can use it for cover from Alterra's Eyes.
+CAL: Gonna miss you, Robin.
+ROBIN: I'll find my way back.
+SHUTTLE COMPUTER: Approaching 4546B. Surface temperature is-\nDrop-pod deployed.
+SHUTTLE COMPUTER: Welcome to 4546B. Enjoy your stay.
+ROBIN: Holy smokes! That did NOT go as planned! I should find a way into the water, and get to the Drop Pod.
+ROBIN: Found the Drop-pod!
+ROBIN: Well Sam, I guess I might as well gather some resources before starting my search. Hope the radio tower´s as easy to spot as Lil said.
+ROBIN: Shoud be able to use this
+ROBIN: Alright, I have a scanner!
+ROBIN: Some of the wildlife down here is very... grabby.
+UNKNOWN: ...---... ...---... ...---...
+ROBIN: That sounds like a distress call.
+PDA: Transmission of unknown origin. Source of transmission depth calculated at approximately 200 meters.
+PDA: This alien technology exhibits a data signature that strongly correlates with the previously recorded distress call.
+ROBIN: Interesting!  I'll bet I can use this new data to identify where that call was coming from.
+ALIEN FACILITY: Sanctuary power critical.
+ROBIN: Hello, is someone there?
+VOICE: In a matter of speaking. We are running out of time.
+ROBIN: What is all this?
+ALIEN FACILITY: Seeking emergency storage medium.
+ROBIN: I can help you better if you show yourself.
+VOICE: If we could show ourselves, we would not need storage.
+ROBIN: You mean you don't have a physical presence? Are you one of them? An Architect?
+ALIEN FACILITY: Storage medium identified.
+VOICE: We will be lost unless we find a new host. Can you help?
+ROBIN: Can you use my PDA for storage?
+VOICE: You are not with the group from before? Your cybernetic components bear their signal.
+ROBIN: Alterra? (laughs) No! My equipment is uh... borrowed.
+VOICE: It will have to do.
+ROBIN: How long have you been stored here?
+VOICE: Longer than hoped.
+ALIEN FACILITY: Warning: Sanctuary power critical.
+VOICE: Our data can be downloaded from the terminal. We may speak more once the transfer is complete.
+ROBIN: Yes, okay. Hurrying.
+ALIEN FACILITY: Storage medium accepted. Brace for transfer.
+ROBIN: Brace?
+ALIEN FACILITY: Transfering.
+ALIEN FACILITY: Transfer complete.
+VOICE: How do you feel?
+ROBIN: Why do you sound like you're inside my head?
+VOICE: The facility identified hospitable capacity within your cerebral cortex.
+ROBIN: You ARE in my head!? I OFFERED YOU MY PDA! GET OUT.
+VOICE: Oh no-- Does your kind perceive a boundary between cybernetic and organic components?
+ROBIN: My mind is not a component!
+VOICE: You sound angry. We will allow you a moment to process.
+ROBIN: Don't you go silent on me.
+ROBIN: HELLO???
+ROBIN: This isn't happening.
+ROBIN: This is not happening.
+VOICE: We understand this arrangement is undesirable to you.
+ROBIN: You're not real. Go away.
+VOICE: To go, we require a suitable body for transfer.
+ROBIN: Why do you keep saying "we"? How many of you are there?
+VOICE: One of us and all of us. We do not think of ourselves as individual, distinct.
+ROBIN: Why don't you start by telling me who you are?
+VOICE: You may append your seed code to my species designation. Please call me AL-AN.
+ROBIN: My whole life, I've been dying to meet a sapient, spacefaring alien up close, and you're telling me your name is ALAN?
+AL-AN: Is it insufficient?
+ROBIN: No, it's fine. It's perfect. Where are you from, Alan?
+AL-AN: Your kind calls us "Architects".
+ROBIN: The precursor race!? But what are you doing here?
+AL-AN: That... is a long story. Perhaps you will prefer to focus on the contruction of a new storage medium to which I may transfer?
+ROBIN: Yes, fine. Absolutely. How do we get you out of here?
+AL-AN: I have added the information to your databank. You will need to find the necessary components.
+ROBIN: Any idea where I can find them?
+AL-AN: It is unclear. I have been disconnected from my network for so long, I cannot locate the coordinates.
+ROBIN: (frustated reaction)
+UNKNOWN: "PDA: Alterra beacon signature detected. Unique identifier: Delta Station Dock.
+ROBIN: Delta Station. This is the place Lil mentioned in her message.
+UNKNOWN: "UNIDENTIFIED WOMAN: This is a recorded message. If you can hear this, you're trespassing. If you know  what's good for you, you'll get the hell out of here.
+UNIDENTIFIED WOMAN: Stop right there, Alterra, you're out of bounds.
+ROBIN: I'm not with Alterra.
+UNIDENTIFIED WOMAN: Then your position is doubly precarious.
+ROBIN: What do you mean?
+UNIDENTIFIED WOMAN: If you're telling the truth, you're out of your mind. If you're lying, there'll be hell to pay.
+ROBIN: Wait! Who are you?
+UNIDENTIFIED WOMAN: Stay off my land.
+UNKNOWN: "PDA: The woman in the exosuit has been traced as far as my technology will allow.
+AL-AN: In the future, I hope you will avoid contact with the woman in the exosuit. I am among the last of a dying civilization. If you were to compromise your wellbeing, a species could go extinct.
+ROBIN: What makes you think she's hostile anyway? A little grumpy, maybe, but who wouldn't be, stranded out here alone?
+AL-AN: She did not respond to my distress call. And she is well-armed.
+ROBIN: Maybe she's afraid of us.
+AL-AN: I have no desire to find out.
+"ROBIN: It would appear I'm far less alone on this planet than I had anticipated.
+ROBIN: It would appear I'm far less alone on this planet than I had anticipated.
+ROBIN: A map will come in handy. I should be able to find my way to Phi Robotics where Sam worked.
+ROBIN: Cushy setup. Must belong to one of those higher-uppers.
+ROBIN: Maybe I can find clues about Sam here.
+ROBIN: Sam really got under management's skin. I didn't know she had it in her.
+AL-AN: You do not trust Alterra.
+ROBIN: No. Neither do you.
+AL-AN: But your sister was Alterran.
+ROBIN: My sister was my sister. She worked for Alterra.
+AL-AN: My people do not perceive a difference. We are what we work for. 
+ROBIN: Well, Sam wasn't. I should've guessed Alterra would find a way to clip Sam's wings, like I knew they'd do to mine. I tried to warn her. And she was stubborn... just like me. Ever since I was a kid I always wanted to be so different from her-- scrappler. Faster. Way less play-by-the-rules.
+AL-AN: Was Sam working in the best interest of Alterra?
+ROBIN: Yes, but they definitely didn't think so.
+AL-AN: We believe that individuals may operate in the best interest of the collective, or against the best interest of the collective. There is no inbetween, to us.
+ROBIN: So you always saw eye-to-eye on absolutely everything with your network?
+AL-AN: No.
+ROBIN: I sense there's more to this story.
+AL-AN: And more to your sister's story as well.
+ROBIN: That's fine. Change the subject. We'll come back to it later.
+UNIDENTIFIED WOMAN: Didn't I tell you to stay away?
+ROBIN: From what? I don't even know who you are.
+MARGUERIT: Marguerit Maida's the name. You're on my turf.
+ROBIN: Great! Can I come in and warm up?
+MARGUERIT: What part of "go away" do you not understand, Alterra?
+ROBIN: I'm not with Alterra.
+MARGUERIT: I told you to stay off my land.
+ROBIN: You trained that thing?
+MARGUERIT: Next time, I'll let him tear you to ribbons, Alterra.
+ROBIN: I'm not with Alterra. I'm Robin Ayou. I'm looking for information about my sister, Sam. I think you might have crossed paths?
+MARGUERIT: Bullcrap. I suggest you take the time you need to come to your senses, and then get off my seabase. If you're not Alterra, why don't disable that damn tracking satellite tower, instead of hacking into my seabase? Maybe once Alterra's off my back, I'll remember something about your sister. There's some junk on that table that might help. I couldn't get it to work.
+ROBIN: Now I just need to build the Test Overide Module. Then I can disable that satellite tower.
+ROBIN: Great, now back to the terminal.
+ROBIN: This should do it. Please work...
+ROBIN: Yes! Satellite's down.
+AL-AN: I am impressed. That was most resourceful.
+MARGUERIT: Alright, Alterra. You win this round. Come find me at my greenhouse. I'm about a kilometer east of your position, up on an iceberg. I have a present for you.
+ROBIN: I'll come by if I have time.
+MARGUERIT: Sure. Whatever. If you have time for me in your busy social calendar.
+MARGUERIT: Damned satellite hasn't passed by in a while. I guess that was your doing.
+ROBIN: Sam's not the only one in the family who knows-- knew-- what to do with vague directions and old wire.
+MARGUERIT: She was an original, that sister of yours. First time I met her I was sure she was Alterra through and through-- not a crease in her uniform... sending those damn bird bots to spy everywhere. Then, she surprised me-- maybe a little too much.
+ROBIN: Meaning...?
+MARGUERIT: If  you really wanna know, there's a PDA on the bench that can point you in the right direction. You need anything else... dont bother me. (laughs) But you can help yourself to the greenhouse. Least I can do to repay you for getting those spying pest off my back.
+UNKNOWN: "MARGUERIT: You can look all you want. There's more to Marguerit that any damnfangled gadget can see.
+UNKNOWN: "PDA: Alterra Facility Beacon detected nearby. Unique identifier: "Phi Robotics Center
+ROBIN: Phi Robotics. This is where Sam worked.
+ROBIN: Sam loved working here with her Spy Penglings.
+AL-AN: Do all humans like work?
+ROBIN: The lucky ones do.
+AL-AN: Are you lucky?
+ROBIN: I used to think I was.
+"ROBIN: Sam loved working here. She told me so.
+ROBIN: Sam loved working here. She told me so.
+ROBIN: This must have been Sam's room. But... something's not right?
+ROBIN: Sam must have stashed this here.
+ROBIN: Strange place for a security bunker.
+AL-AN: Did the person who worked here also live in storage?
+ROBIN: What happened here?
+AL-AN: I sense many things here. Death, among them.
+ROBIN: This was Sam's necklace. She never took it off.
+AL-AN: It appears that your sister's death was accompanied by significant destruction.
+ROBIN: It doesn't make any sense. She would never destroy a base... well... baselessly.
+AL-AN: Are your feelings confused? I am detecting more than one.
+ROBIN: I don't know. I feel... disillusioned? Worried? I thought I knew Sam better than I really did. When we were kids, I was always the one breaking and rebuilding things. She wouldn't even go into a bake sale without a plan-- for classic oatmeal cookies, no less. So serious. She wouldn't have anything to do with my molecularly transformed caramel pretzel lumps.
+AL-AN: Your mind goes easily to food. To distract you from your feelings?
+ROBIN: Okay I think that's enough mind reading for now. This wasn't negligence. That's not Sam. This was... something else.
+AL-AN: I believe the antibacterial agent was effective. Without it, the bacteria could have spread. Now it cannot. Your sister's memory will live in you through this gesture.
+ROBIN: It feels good, doing this one last thing for Sam. I feel like I got some closure.
+AL-AN: My people do not experience "endings" as you do. Do humans feel joy in realizing that you've reached the end of something?
+ROBIN: Sometimes. Closure is a sense of resolution. Like, knowing that even though it still hurts, it'll be okay. I did what I came to do. I found out what really happened to her, and I got to finish her work. I learned a little more about the person I've looked up to for my whole life. I wish I'd told her that more. Sam always wanted to make a difference. She wanted the bacteria contained, to keep everyone safe. I'm grateful to give her that. I just wish I could have said goodbye.
+ROBIN: Your work here is finished, Sam. I hope it brings you peace.
+ROBIN: Your work here is finished, Sam. I hope it brings you peace.
+ROBIN: What did Alterra use this place for?
+AL-AN: Researchers here were trying to find me.
+AL-AN: Lil wanted to know too much about Architects. I could not let her. She was-- what do you call them? ALterran.
+ROBIN: What do you think she would do to you?
+AL-AN: She might have discovered the gateway to our home world. I thought it wiser not to take the chance.
+"ROBIN: Was she right? Could there be Architects living on this planet? Alterra really messed up if they got that one wrong.
+ROBIN: Was she right? Could there be Architects living on this planet? Alterra really messed up if they got that one wrong.
+ROBIN: Oh... Potato. I miss that fluffy little couch walrus.
+ROBIN: Was this... Sam's space? What was she doing all the way out here?
+ROBIN: Potato. You were a good cat.
+ROBIN: Al-An, what is this place?
+AL-AN: It is Architect technology. Standard for my people.
+ROBIN: Well, nothing your people do is standard to me. What is it?
+AL-AN: This facility provides means for... rapid travel.
+ROBIN: It seems to be inactive.
+AL-AN: Without a vessel of my own, this site is not of any great utility.
+ROBIN: I see...
+AL-AN: I have collected enough data to extrapolate the location of a component necessary to assemble my body. I will provide a signal.
+AL-AN: You came within range of data that might help with the construction of a new storage medium. You must continue to investigate.
+AL-AN: I strongly sense my people's technology nearby. A body component is near.
+AL-AN: This skeleton is very dense... able to handle heavy forces, a good frame for my new form.
+ROBIN: Are you ok, Al-An?
+AL-AN: It is not often that I gazed upon the form of a fallen Architect.
+ROBIN: Is this place another sort of sanctuary? It's peaceful, beautiful even.
+AL-AN: As the bacterium spread, the continuation of life became... uncertain. This is a place to reflect.
+ROBIN: I think I understand.
+AL-AN: I can visualise a location where we may find an important component for my body. The image is hazy but I am sure it is correct. A stark surface landscape. Dangerously cold. Curved spires stretch to the sky.
+AL-AN: There is something of significance beyond this bridge. It was important to Alterra but more important to me.
+ROBIN: Will it help us build you a body?
+AL-AN: I believe so, yes.
+AL-AN: I am sensing interesting patterns to the North-East. It would be worth investigating. But be careful.
+ROBIN: Of what?
+AL-AN: I recall ravenous creatures, tunnelling beneath the ice.
+AL-AN: Architect data patterns are so strong here. There is almost certainly vital information pertaining to my body construction nearby.
+ROBIN: Ah... that is a rough way to go.
+AL-AN: Yes, I would not enjoy being crushed while mining ion cube components.
+ROBIN: The cold preserved the body well, but this isn't a big sample. Will it be enough?
+AL-AN: Our tissues are pluripotent, derived from the DNA of various species, capable of changing form as necessary.
+ROBIN: Ah, like stem cells. So what's to prevent you from... I don't know... ending up with hooves where your eyelashes should go?
+AL-AN: That does not happen. At least, not since the fourth iteration.
+AL-AN: You have found two of three components required to for the construction of my corporeal form. This is as close as I have come to autonomy in a long time.
+ROBIN: You have such a way with words.
+AL-AN: Is that sarcasm?
+ROBIN: It was. You're learning.
+AL-AN: Hopefully I will not have time to complete my study.
+ROBIN: (laughs) I was wondering, if you can transfer bodies, why was it important to find a cure when you were infected? Couldn't you just make a new body?
+AL-AN: As you can see in the components you have scanned thus far, the forms we require combine biological and mechanical parts. The tissues you have scanned were developed from the DNA of 27 seperate alien species.
+ROBIN: Twenty-seven! That seems greedy. And wouldn't that mean that anything that infects a body you've manufactured can potentially learn how to infect all those othe species?
+AL-AN: Yes. That is why a cure was imperative.
+AL-AN: The network is indicating more of my peoples' technology, but the images I am receiving are fragmented... repeating. I am struggling to locate them precisely.
+ROBIN: Fragmented images... why would that happen?
+AL-AN: I can only theorize that the locations are deep, and shielded by a refractive material. Perhaps amongst large crystal formations.
+AL-AN: The crystals in this environment are confusing my sensors-- and yet I feel certain there is something important below-- a facility, or a body component. Perphaps both. I cannot tell.
+AL-AN: There is definitely something of value nearby. It could help you build my body.
+AL-AN: You will be able to construct bionic organs with the scanned material-- both primary and secondary. Our designs provide for redundancies.
+ROBIN: Given your current location, I think they could still be improved.
+AL-AN: Your feedback as been noted.
+AL-AN: You have scanned all the components we need to make a storage-- er-- body.
+ROBIN: Are you excited?
+AL-AN: Using the chemical compounds available in your body, I am able to approximate what you might call cautious optimism.
+AL-AN: We have gathered the necessary components to begin constructing my body.
+ROBIN: Great. What's next? Let's get you out of my head!
+AL-AN: First you must find the Fabrication Facility. It is concealed at some depths.
+ROBIN: Fabrication facility. So you planned on needing to make more bodies?
+AL-AN: It is a standard medical facility.
+ROBIN: A medical facility where you just replace your whole body when it wears out? Sounds a little beyond standard to me.
+AL-AN: Ours was a research mission of the highest importance.
+ROBIN: So what were you? A scientist, like me?
+AL-AN: I am a scientist now.
+ROBIN: So what happened? Your team found the vaccine and then--
+AL-AN: Please, Robin. You have the components. Find the facility, and construct the body.
+ROBIN: Okay. But don't think I don't notice you changing the topic.
+AL-AN: I sense the presence of a substancial facility in the area. Unable to identify.
+AL-AN: Once you have used the Fabricator to build each component, we can assemble them.
+ROBIN: And then we can transfer you out of my head?
+AL-AN: I am anticipating it as much as you are.
+ROBIN: What is this place? Certainly Precursor in origin. But what's it for? Some kind of manufacturing? Why's it hidden all the way down here?
+ROBIN: What is this place? Certainly Precursor in origin. But what's it for? Some kind of manufacturing? Why's it hidden all the way down here?
+ROBIN: So... Al-An, you said your people came here in search of a cure?
+AL-AN: I was... a researcher.
+ROBIN: You were a scientist? Like me?
+AL-AN: My people regarded my scientific contributions with particular interest.
+ROBIN: As I said, like me.
+AL-AN: If that is your interpretation.
+ROBIN: So how did your valuable scientific mind wind up infected?
+AL-AN: Not my mind. My body. Perhaps your should build the next component.
+ROBIN: So you came here to search for a cure?
+AL-AN: I lead the mission.
+ROBIN: Does that mean the bacteria got out on your watch?
+AL-AN: This subject is uncomfortable. If you would like to know more, I will ask that you first construct the final component.
+AL-AN: This is the last piece. Soon I will be autonomous again.
+ROBIN: What will you do with your newfound freedom?
+AL-AN: I want to go home, and make amends.
+ROBIN: Amends? For the bacterium? There seems to be a lot you're not telling me.
+AL-AN: It is hard for me to find the words, I must collect my thoughts.
+AL-AN: We have all the necessary components. You may initiate the body fabrication sequence from the terminal.
+ROBIN: You still owe me an explanation.
+AL-AN: I understand.
+ALIEN FACILITY: Commencing storage medium fabrication.
+AL-AN: The escape of the bacteria was an accident. I thought my solution was foolproof. I was wrong.
+ROBIN: Did you cause the accident?
+AL-AN: Yes.
+ROBIN: Oh.
+AL-AN: I do not wish to speak about it.
+ROBIN: We can come back to this.
+ALIEN FACILITY: Commencing data transfer.
+ROBIN: (gasps)
+ROBIN: Did it work? Are we...
+AL-AN: It has been some time since I last stretched out in so many dimensions. Like waking from a dream.
+ROBIN: Whoa! Hey. You're really not in my head anymore?
+AL-AN: There are some remnants. Would you like your memories of me removed as well?
+ROBIN: Are you kidding? No way. You still owe me the end of your story.
+AL-AN: I told you I must return home. To assess. Repair. Make amends.
+ROBIN: Tell me more.
+AL-AN: When the bacteria escaped, it was my fault. I disobeyed the directive from my network.
+ROBIN: Oh no...
+AL-AN: We noticed that a species of leviathan young produced an enzyme that is efficient against the bacteria. I thought if we incubated Sea Dragon eggs, we might expedite their hatching. I was not wrong...
+ROBIN: But...
+AL-AN: It would appear that Sea Dragon parents are stronger and more motivated than our facility was rated to handle.
+ROBIN: And the bacteria got out, infecting everything. How many survived the outbreak, back home? Are they still waiting for someone to bring back a cure?
+AL-AN: I do not know.
+ROBIN: Can I help?.
+AL-AN: The fact that I withheld this information does not concern you?
+ROBIN: It was certainly manipulative. But I've also made my share of mistakes. I'm still committed to helping.
+AL-AN: I accept your help. Find me at the Gate when you are ready. In the meantime, I must prepare.
+AL-AN: Please, I will join you in the gate base, when everything is ready, but for now, I have much to prepare.
+AL-AN: Why are you scanning me?
+ROBIN: Science. Curiosity. I want something to remember you by.
+AL-AN: It feels rather invasive.
+ROBIN: Now you know what it's like.
+AL-AN: I have determined the location of some important technology. I implore you to investigate.
+ROBIN: Will this help us build you a body?
+AL-AN: I do not know what we will find. I just know it is important.
+AL-AN: I have been able to sense the location of an important artifact. I will share its coordinates so you can look into it.
+ROBIN: Got it.
+AL-AN:Robin, I have something important to share.
+ROBIN: Another artifact.
+AL-AN: Yes, although...
+ROBIN: You cannot know for sure what it is, but it is certainly of significant import. I know.
+AL-AN: I am picking up the signature of an important item belonging to my people. I will share its location.
+ROBIN: Okay.
+AL-AN: I have detected an energy signature of some strength. I am not sure what it is for.
+ROBIN: Go ahead and share it. Can't hurt.
+AL-AN: Robin? I have found the location of another artifact.
+ROBIN: Good. I really hope this one tells us something we need.
+AL-AN: As do I.
+AL-AN: What you found is more than just an artifact. It will help me follow the traces my people left on this planet.
+ROBIN: I'm glad I could help.
+AL-AN: I know you would still prefer me to have a corporeal form of my own.
+ROBIN: Well, yes.
+AL-AN: If you continue searching, I may regain some of my connection to the network, piece by piece.
+AL-AN: It is both reassuring and unsettling to rediscover this site after being in storage for so long. My connection to the network grows stronger, however slightly. I hope you will continue to search for more of these.
+AL-AN: Another site found. Perhaps its data will tell me something useful.
+AL-AN: The artifact you found contains traces of information suggesting what has become of my people.
+AL-AN: This artifact could provide useful information. Processing.
+AL-AN: With this artifact, I am again able to trace the imprint of my people. They survived for a time but then their presence becomes faint.
+AL-AN: This site is one of some significance. Its data will assist us on our quest.
+AL-AN: Another site found, but I cannot yet tell whether the others survived. Still, it holds valuable information. I hope you will find more.
+AL-AN: How do your people communicate if you are not networked?
+ROBIN: What do you mean? We just talk to each other.
+AL-AN: Do you not find that primitive? My people are able to gain understanding through the network. It takes much of the uncertainty out of communicating.
+ROBIN: But that's the beauty of communication-- it builds trust. People choose to let you know them.
+AL-AN: We exist as data. We all are aware of each other's thoughts and needs. Scientific endeavors are accomplished much more smoothly this way.
+ROBIN: There's more to life than research, Al-An! I can't lie. Work would go faster if I could read my colleagues' minds. But thoughts are private and people have their own inner lives. People change, and need space to think.
+AL-AN: Space helps you think? I find that being separated from my network is very quiet.
+ROBIN: What do you mean by "quiet?
+AL-AN: Imagine a thousand strings, each playing its own range of notes, none louder than the others. Each one builds harmony-- a continuous thrum in the background of existence. I am now a lone string in search of familiar harmonies.
+ROBIN: I'll help you find them.
+AL-AN: I think I felt a hint of them when we came across that artifact. If we find more, I might be able to get a stronger sense.
+AL-AN: My people exist as an intertwined network, across space. It enables us to understand what each component needs and feels. It takes the uncertainty out of communication. I find myself missing that feeling. I felt the presence of some of the network when we found this artifact. Hopefully, if we find more I can get a better sense of it.
+AL-AN: How do humans function with such a fallible and inferior body?
+ROBIN: Excuse you, my body is anything but inferior. I work hard for my body to be able to do what it does.
+AL-AN: Yes, but its overall form is not ideal. For example, consider its use of primitive ball and socket joints.
+ROBIN: Is there anything you don't find primitive? Humans bartered with evolution to get more brain wrinkles and opposable thumbs.
+AL-AN: It is true. The opposable thumb is excellent. But all corporeal forms are temporary. The ability to be reborn when a body breaks down is paramount.
+ROBIN: My body is my own, and I cherish it. It grows with me. Humans have one life. We plant trees we can never experience the shade of. We build for the next generation.
+AL-AN: Noble, but again, truly inefficient.
+ROBIN: You are incredibly frustrating, you know that?
+AL-AN: I hope to see the forms of my people again.
+AL-AN: How do humans function with such inefficient bodies? Over the course of millenia, Architects have crafted and perfected our forms, based on the species we have observed and emulated. As long as we can shift ourselves into another vessel, we cannot truly die.
+AL-AN: How do humans function with such inefficient bodies? Over the course of millenia, Architects have crafted and perfected our forms, based on the species we have observed and emulated. As long as we can shift ourselves into another vessel, we cannot truly die.
+AL-AN: How do humans cope with the loss of memories?
+ROBIN: Like forgetting someone's birthday? I don't know. It just happens.
+AL-AN: No, important memories. When you die, some quantity of knowledge is lost forever to the next generation? Isn't that--
+ROBIN: I'm warning you: if you call humanity inefficient one more time, I will swim us both into the mouth of a Leviathan.
+AL-AN: Is that sarcasm? I am still having trouble differentiating.
+ROBIN: How inefficient.
+AL-AN: Efficiency aside, does the loss of knowledge not create complications?
+ROBIN: Well-- it can be sad. On a personal level, losing somone can be traumatic. But it's harder to process the idea of generational knowledge. Humans aren't networked so we can't even be aware of what we are losing, moment to moment. But we do have written and oral histories.
+AL-AN: History is interpreted and memories are not perfect.
+ROBIN: This is true, but it's what we have. We try to learn from history...some of us more than others. Memory is complex. Maybe it's not ideal, but it's what we have.
+AL-AN: What happens when you no longer have the memories of others to combine with your own?
+ROBIN: You make your own memories and interpretations. You have to experience life as an autonomous being-- discover yourself.AL-An: That idea is foreign to me. I hope as we continue to discover these artifacts my connection will get stronger.
+AL-AN: My people are able to store perfect memories of knowledge we gain. Existing partially as networked data allows for objectivity. It can't be corrupted or misinterpreted. Knowing that my experiences are not being immediately recorded and added to the generational memory is isolating-- a constant reminder of the urgency of our mission. I hope that we can find more traces of my people soon.
+AL-AN: Our searches have been useful, but ultimately, I have no definitive evidence as to the fate of my people. The network I hoped to rejoin may no longer exist. I cannot feel it.
+ROBIN: There could be a million reasons for that. Like... what if the network had a system update? They're on version 2001.4 and you're still on version 14.2.
+AL-AN: That would make me incompatible. How would I even begin to plan my upgrades?
+ROBIN: Okay, that's not what I meant. Bad example. You still know how to get home?
+AL-AN: Yes.
+ROBIN: So don't give up. Go there. See for yourself what happened! This isn't over yet.
+AL-AN: You are expressing optimism, but it is not supported by probability.
+ROBIN: Hope isn't based in statistics. It's born from a drive for something better.
+AL-AN: What you are describing is merely survival instinct.
+ROBIN: Call it whatever you want, if it keeps you from lying down and giving up.
+AL-AN: My people do not "lie down." If they still exist. Which I cannot confirm.
+ROBIN: Welcome to life for the rest of us, Al-An. Most of us don't get to know what's happening in every timeline. We have to go along with things and believe in life's potential.
+AL-AN: How do you bear that?
+ROBIN: There's a poem Sam loved--  Hope is human. Hope is....uhh... oh right-- "Hope is the thing with feathers!
+AL-AN: This does not match any fauna designation I can find in your PDA.
+ROBIN: It's a line from an 19th century Earth author. Emily something. "Hope" is the thing with feathers - / That perches in the soul - / And sings the tune without the words - / And never stops - at all - I promise we'll get answers one way or another, Al-An.
+AL-AN: Adding Hope to your database.
+AL-AN: Our searches have been useful, but ultimately, I have no definitive evidence as to the fate of my people. The network I hoped to rejoin may no longer exist. I cannot feel it. I suppose the human reaction would be to maintain "hope." A survival instinct. Having no choice, I shall emulate you. It seems rather inefficient, but I will have to go home, and see what awaits me. The only other alternative is to perish alone-- a worse inefficiency by far.
+AL-AN: What happens as you are sleeping? I was being pulled from illogical world to illogical world with you at the center of them all.
+ROBIN: I was dreaming. The brain processes in mysterious ways when we sleep.
+AL-AN: Does it serve a purpose? It was such disorienting and fragmented thought. Random images and sensations.
+ROBIN: No one is completely sure what it does. There are theories. But every human dreams. Many other mammals, too.
+AL-AN: Is it enjoyable?
+ROBIN: It can be. We can experience impossible joy and also impossible terror in dreams. Sometimes I can fly. Sometimes I call out to Sam, and can't reach her. Sometimes, I am in my underwear, defending my doctoral thesis. It's a mixed bag.
+AL-AN: (draft) Your biofeedback indicates that flying is the most enjoyable dream. I therefore hope you have more of those. Mainly for my own safety.
+AL-AN: What is the purpose of this device?
+ROBIN: It plays music so that I have something to listen to.
+AL-AN: What is music? I can detect certain patterns within it. Is it mathematical? An instrument of science? Does it help with your research?
+ROBIN: It does! Just not in the way you're probably thinking. Music and math are strongly related. Rhythm is math. Harmonies can be math. But music as a whole is more than that. We experience it on an emotional level.
+AL-AN: I sense it has an impact on your pulse and breathing. It makes you move differently. Humans are controlled by music?
+ROBIN: We make music, and we are moved by it. Not everything is about control, Alan.
+AL-AN: We also keep various creatures as pets.
+ROBIN: Really? How does a species that uses the genes and bodies of other creatures view pets?
+AL-AN: They are curiosities that bring some sense of presence and energy. They are also test subjects to be evaluated for potential genetic enhancements.
+ROBIN: That's not a pet Al-an...that's a data point. Like you said, it's literally a test subject.
+AL-AN: You do not think they can be both?
+ROBIN: There's a distinction. Pets are something that you care for simply for the pleasure of doing so.
+AL-AN: Would humans consider me to be your pet?
+ROBIN: No, I said "pleasure," Alan. This is more like a job.
+AL-AN: Where I come from, you might be a pet.
+ROBIN: I find that thouroughly disturbing.
